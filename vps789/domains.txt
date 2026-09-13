@@ -68,6 +68,7 @@ cfip-cu.stoeaves.us.ci
 cf.xycf.asia
 www.deepl.com
 w3.org
+cf.v8.longsays.com
 fn.130519.xyz
 staticdelivery.nexusmods.com
 constitution.congress.gov
@@ -85,7 +86,6 @@ cf.877771.xyz
 linear.app
 www.mc.js.cool
 isp.254301.xyz
-cf.998866.top
 7.cf.3666888.xyz
 ikankeji.com
 china-telecom.cname.cloudflare.468123.xyz
@@ -95,10 +95,11 @@ cfip-cm.stoeaves.us.ci
 cf.xreak.top
 yfvsdf.cf.3666888.xyz
 youxuan.cf.3666888.xyz
+cf.998866.top
 chinwa.cf.090227.xyz
 kernelsu.com
 cnamefuckxxs.yuchen.icu
-cf.877774.xyz
+zabc.net
 p.etime.vip
 ovpnspider.com
 www.jimdo.com
@@ -106,15 +107,16 @@ www.vmware.com
 sg.cf.3666888.xyz
 8.cf.3666888.xyz
 greim.no
+cloudflare.468123.xyz
 www.sloomb.com
 jojolsj.jojojing.top
 cfip-ct.stoeaves.us.ci
+cf.nyanya.moe
 coke.cf.3666888.xyz
 registry.npmjs.org
 gitlab.com
 www.postman.com
 kaspa.stream
-zabc.net
 debot.ai
 cloudflare.tv
 themeisle.com
@@ -122,6 +124,7 @@ packtpub.com
 cdnjs.cloudflare.com
 challenges.cloudflare.com
 avido.cf.3666888.xyz
+adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 111.cf.cname.vvhan.com
 mox.moxing.lol
@@ -129,7 +132,6 @@ yx.cf.090227.xyz
 cf1.v8.longsays.com
 cf.vvhan.com
 4gxb7l7p40.cloudflare-gateway.com
-get.pixelexperience.org
 virtualcommtraining.verizon.com
 webn.cc
 scalacube.com
@@ -141,12 +143,13 @@ www.hypixel.net
 racerseseries.sky.com
 mskcc.org
 mogas.com
-adnjv.cf.3666888.xyz
+4.cf.3666888.xyz
 hzytjy.cn
 imooo.de
 www.apnic.net
 helium.computer
 grass.io
+cdn.ddeed.de
 trump.com
 www.roche.com
 cf.yfjc.sbs
@@ -161,6 +164,7 @@ pttime.org
 investor.apple.com
 i.pixiv.nl
 digitalocean.com
+cf.877774.xyz
 666.cf.cname.vvhan.com
 cmcc.877774.xyz
 dynadot.com
@@ -175,8 +179,8 @@ moondroplab.com
 cfyx.qdqqd.com
 2.cf.3666888.xyz
 uac.cf.3666888.xyz
-4.cf.3666888.xyz
 china.mfa.gov.ua
+47bt.com
 china-mobile.cname.cloudflare.468123.xyz
 www.acces-maroc.ma
 elron.ee
@@ -185,6 +189,7 @@ wallpaperflare.com
 dongbanghong.com
 www.xflash.vip
 yd.hhhhh.eu.org
+get.pixelexperience.org
 cloudflare.com
 moegirl.icu
 moodle.org
@@ -192,9 +197,4 @@ yg9.ygkkk.dpdns.org
 www.government.is
 crypto.cloudflare.com
 a.pub.network
-db-ip.com
-visa.com
-dash.cloudflare.com
-bestcf.030101.xyz
-i.111666.best
-www.epicgames.com
+rankmath.com
