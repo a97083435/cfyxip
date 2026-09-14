@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 09-15 05:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 09-15 05:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 yg4.ygkkk.dpdns.org:443#VPS789优选 | yg4.ygkkk.dpdns.org
@@ -66,10 +66,10 @@ buyshoes.shop:443#VPS789优选 | buyshoes.shop
 china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 digitalocean.com:443#VPS789优选 | digitalocean.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
+www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.shopify.com:443#VPS789优选 | www.shopify.com
 v.recipes:443#VPS789优选 | v.recipes
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
-cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 linear.app:443#VPS789优选 | linear.app
 www.dentoncounty.gov:443#VPS789优选 | www.dentoncounty.gov
 w3.org:443#VPS789优选 | w3.org
@@ -77,6 +77,7 @@ www.jimdo.com:443#VPS789优选 | www.jimdo.com
 moondroplab.com:443#VPS789优选 | moondroplab.com
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
+avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
@@ -98,5 +99,4 @@ mvnrepository.com:443#VPS789优选 | mvnrepository.com
 cdnjs.loli.net:443#VPS789优选 | cdnjs.loli.net
 ping.pe:443#VPS789优选 | ping.pe
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
-www.whatismyip.com:443#VPS789优选 | www.whatismyip.com
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
