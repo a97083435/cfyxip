@@ -8,9 +8,9 @@ cf.godns.cc
 cf.553314.xyz
 isp.254301.xyz
 cdn.2x.nz
-cloudflare.468123.xyz
 cdn.ddeed.de
 ip.skk.moe
+cloudflare.468123.xyz
 cloudflare.19931110.xyz
 builtbybuffalo.com
 visa.com
@@ -32,6 +32,7 @@ securecircle.com
 www.carousell.sg
 visa.com.tw
 4gxb7l7p40.cloudflare-gateway.com
+yfvsdf.cf.3666888.xyz
 tracker.metricool.com
 dx.doi.org
 codeforces.com
@@ -83,6 +84,7 @@ uspto.gov
 cdn.091224.xyz
 markmonitor.com
 ct.721660.xyz
+cfip-ct.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
 play.mc.js.cool
 cf.xycf.asia
@@ -96,6 +98,7 @@ cf-cname.xingpingcn.top
 www.whatismyip.com
 cf.3666888.xyz
 p.etime.vip
+dnew.cc
 www.mc.js.cool
 m.iyf.tv
 www.botafogo.com.br
@@ -137,7 +140,6 @@ www.crazygames.fr
 www.leics.police.uk
 support.communilink.net
 www.canadatype.com
-cfyx.qdqqd.com
 fw8je9.cf.3666888.xyz
 investorrelations.medtronic.com
 www.itedev.com
@@ -146,6 +148,7 @@ www.xflash.vip
 coke.cf.3666888.xyz
 cloudflare.com
 registry.yarnpkg.com
+cf.yj250.bond
 syncfusion.com
 www.doiting.com
 investor.apple.com
@@ -158,6 +161,7 @@ constitution.congress.gov
 racerseseries.sky.com
 tinyurl.com
 npmjs.com
+cfyx.qdqqd.com
 yg12.ygkkk.dpdns.org
 www.galgamex.net
 ikankeji.com
@@ -194,7 +198,3 @@ oxylabs.io
 kick.com
 i.pixiv.nl
 bestcf.top
-cmcc.090227.xyz
-aqua-aria.company
-bestcfv4.030101.xyz
-guide.for.edu.sg
