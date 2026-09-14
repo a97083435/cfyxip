@@ -43,6 +43,7 @@ api2-ide.imgnxa.com
 db-ip.com
 store.ubi.com
 ahrefs.com
+youxuan.cf.090227.xyz
 www.revechat.com
 sg.cf.3666888.xyz
 1.cf.3666888.xyz
@@ -107,7 +108,6 @@ p.etime.vip
 dnew.cc
 www.mc.js.cool
 m.iyf.tv
-youxuan.cf.090227.xyz
 www.botafogo.com.br
 keji.cf.3666888.xyz
 sanwang.cf.3666888.xyz
@@ -144,6 +144,7 @@ edgeone.gh-proxy.org
 s.ee
 dogechain.info
 investor.apple.com
+cf1.v8.longsays.com
 gh-proxy.com
 www.sage.com
 www.crazygames.fr
@@ -153,7 +154,6 @@ www.canadatype.com
 fw8je9.cf.3666888.xyz
 investorrelations.medtronic.com
 www.itedev.com
-cf1.v8.longsays.com
 www.xflash.vip
 yd.hhhhh.eu.org
 coke.cf.3666888.xyz
@@ -164,7 +164,6 @@ syncfusion.com
 www.doiting.com
 1.cloudflare.19931110.xyz
 cloudflare.cfgo.cc
-www.speedtest.net
 blog.raindew.576555.xyz
 dynadot.com
 constitution.congress.gov
@@ -183,13 +182,13 @@ registry.npmjs.org
 nodejs.org
 zero-trust-client.cloudflareclient.com
 help.kolet.com
-www.timbuktutravel.com
 my.vultr.com
 cloudflare-ip.mofashi.ltd
 dash.cloudflare.com
 videodelivery.net
 bestcf.030101.xyz
 openai.com
+www.speedtest.net
 form.assaabloy.com
 encryptedsni.com
 bitsight.com
@@ -197,4 +196,5 @@ aftership.com
 envato.com
 zoominfo.com
 www.elysee.fr
+www.timbuktutravel.com
 hsl.upstate.edu
