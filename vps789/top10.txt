@@ -1,11 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 09-15 00:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 09-15 00:42 | BestCF.pages.dev
 b3.cfyx.20237737.xyz:443#VPS789优选 | b3.cfyx.20237737.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
-cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
-cf.godns.cc:443#VPS789优选 | cf.godns.cc
 yg4.ygkkk.dpdns.org:443#VPS789优选 | yg4.ygkkk.dpdns.org
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
+cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
+cf.godns.cc:443#VPS789优选 | cf.godns.cc
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
 ip.skk.moe:443#VPS789优选 | ip.skk.moe
 isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
