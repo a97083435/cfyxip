@@ -57,7 +57,7 @@ xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xiaoli8571/NekoBox4Harmony|1.9.0|2026-09-08
 xinggaoya/sing-box-windows|2.3.1|2026-06-17
 xishang0128/sparkle|1.26.8|2026-09-03
-yabi-zzh/HoKit|1.8.7|2026-08-30
+yabi-zzh/HoKit|1.8.8|2026-09-14
 yanue/v2rayu|5.2.0|2026-08-02
 yaog6700-bit/Swell-Proxy|3.3.5|2026-09-03
 zn0wii/satelite-proxy|1.0.33|2026-09-13
