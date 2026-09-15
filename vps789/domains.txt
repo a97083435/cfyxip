@@ -41,9 +41,9 @@ codeforces.com
 www.ventusky.com
 yg9.ygkkk.dpdns.org
 api2-ide.imgnxa.com
-db-ip.com
 store.ubi.com
 ahrefs.com
+resources.biginterview.com
 www.revechat.com
 sg.cf.3666888.xyz
 1.cf.3666888.xyz
@@ -56,6 +56,7 @@ dongbanghong.com
 www.akasantech.com
 prizepicks.com
 cfip-avg.stoeaves.us.ci
+db-ip.com
 icook.tw
 japan.com
 www.postman.com
@@ -153,7 +154,6 @@ www.sage.com
 syncfusion.com
 www.crazygames.fr
 www.leics.police.uk
-support.communilink.net
 www.canadatype.com
 fw8je9.cf.3666888.xyz
 investorrelations.medtronic.com
@@ -173,12 +173,14 @@ racerseseries.sky.com
 tinyurl.com
 npmjs.com
 www.elysee.fr
+support.communilink.net
 cfyx.qdqqd.com
 yg12.ygkkk.dpdns.org
 ikankeji.com
 hzytjy.cn
 cfplus.255520.xyz
 www.giannidelprete.it
+cdn.fiatnorm.us.kg
 registry.npmjs.org
 nodejs.org
 zero-trust-client.cloudflareclient.com
@@ -196,5 +198,3 @@ bitsight.com
 aftership.com
 envato.com
 zoominfo.com
-www.timbuktutravel.com
-hsl.upstate.edu
