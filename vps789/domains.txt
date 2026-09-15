@@ -56,7 +56,6 @@ www.udacity.com
 cf.godns.cc
 dnew.cc
 youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz
 cfyx.qdqqd.com
 123.cf.3666888.xyz
 qocu.cf.3666888.xyz
@@ -80,6 +79,7 @@ www.5199dy.com
 gh-proxy.com
 nexusmods.com
 www.bis.gov
+cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
@@ -106,6 +106,7 @@ cfplus.255520.xyz
 www.donaldjtrump.com
 www.akasantech.com
 cf.553314.xyz
+ex.warspite.dpdns.org
 cdn.fiatnorm.us.kg
 top-fast.cf.3666888.xyz
 cloudflare.com
@@ -117,6 +118,7 @@ cdnjs.cloudflare.com
 avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 yg4.ygkkk.dpdns.org
+www.galgamex.net
 ctlmt.info
 1.cloudflare.19931110.xyz
 cf.xreak.top
@@ -125,7 +127,6 @@ buyshoes.shop
 oxylabs.io
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
-kickstarter.com
 mfa.gov.ua
 cmcc.877774.xyz
 www.whatismyip.com
@@ -150,6 +151,7 @@ kick.com
 nodejs.org
 zj.7star.eu.cc
 api.producthunt.com
+sunkist.com
 moondroplab.com
 cfdl.3666888.xyz
 salaryexpert.com
@@ -157,12 +159,12 @@ www.copilot.com
 digitalocean.com
 cf.090227.xyz
 www.epicgames.com
+kickstarter.com
 zabc.net
 aandd.co.jp
 www.hypixel.net
 dynadot.com
 racerseseries.sky.com
-sunkist.com
 jquery.com
 networksolutions.com
 www.jimdo.com
@@ -173,7 +175,6 @@ cloudflare.468123.xyz
 www.gov.il
 www.trumpinternationalrealty.com
 coke.cf.3666888.xyz
-ex.warspite.dpdns.org
 dash.domain.digitalplat.org
 www.mediafire.com
 www.chess.com
@@ -195,6 +196,5 @@ www.eccu.edu
 bestcf.030101.xyz
 666.cf.cname.vvhan.com
 api.uniapi.io
-coreweave.com
 hostinger.com
 www.sage.com

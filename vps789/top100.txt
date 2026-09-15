@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 09-16 07:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 09-16 07:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 131.youxuan.cf.090227.xyz:443#VPS789优选 | 131.youxuan.cf.090227.xyz
@@ -57,7 +57,6 @@ www.udacity.com:443#VPS789优选 | www.udacity.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
 dnew.cc:443#VPS789优选 | dnew.cc
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
-cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cfyx.qdqqd.com:443#VPS789优选 | cfyx.qdqqd.com
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
@@ -81,6 +80,7 @@ www.5199dy.com:443#VPS789优选 | www.5199dy.com
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
 nexusmods.com:443#VPS789优选 | nexusmods.com
 www.bis.gov:443#VPS789优选 | www.bis.gov
+cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
