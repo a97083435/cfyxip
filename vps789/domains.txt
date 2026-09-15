@@ -166,6 +166,7 @@ jquery.com
 networksolutions.com
 www.jimdo.com
 zoominfo.com
+jobsdb.com
 isp.254301.xyz
 cloudflare.468123.xyz
 www.gov.il
@@ -197,4 +198,3 @@ api.uniapi.io
 hostinger.com
 www.sage.com
 tinyurl.com
-themeisle.com
