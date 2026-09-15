@@ -51,6 +51,7 @@ www.giannidelprete.it
 prompt.gzcrtw.com
 www.deepl.com
 www.ntu.edu.sg
+cloudflare-ip.mofashi.ltd
 www.udacity.com
 cf.godns.cc
 dnew.cc
@@ -90,7 +91,6 @@ www.090902.xyz
 fn.130519.xyz
 sg.cf.3666888.xyz
 uac.cf.3666888.xyz
-cf.998866.top
 yg11.ygkkk.dpdns.org
 imooo.de
 china-telecom.cname.cloudflare.468123.xyz
@@ -99,6 +99,7 @@ prizepicks.com
 play.mc.js.cool
 4gxb7l7p40.cloudflare-gateway.com
 www.mastervolt.com
+cf.998866.top
 yg4.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 cfgo.timelate.com
@@ -125,12 +126,12 @@ buyshoes.shop
 oxylabs.io
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
+mfa.gov.ua
 cmcc.877774.xyz
 www.whatismyip.com
 cmcc.vvvv.ee
 crowdstrike.com
 mogas.com
-youxuan.cf.636949.xyz
 yg1.ygkkk.dpdns.org
 yg2.ygkkk.dpdns.org
 cnllm.com
@@ -141,6 +142,7 @@ api.cloudflare.com
 ctsg.cfyx.aliyun.20237737.xyz
 dongbanghong.com
 chrono24.com
+cfip-cu.stoeaves.us.ci
 mail.murata.com
 kick.com
 nodejs.org
@@ -154,7 +156,6 @@ digitalocean.com
 cf.090227.xyz
 www.epicgames.com
 kickstarter.com
-mfa.gov.ua
 zabc.net
 www.hypixel.net
 dynadot.com
@@ -169,7 +170,6 @@ isp.254301.xyz
 cloudflare.468123.xyz
 www.gov.il
 www.trumpinternationalrealty.com
-cfip-cu.stoeaves.us.ci
 coke.cf.3666888.xyz
 ex.warspite.dpdns.org
 dash.domain.digitalplat.org
