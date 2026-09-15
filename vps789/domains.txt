@@ -99,7 +99,6 @@ prizepicks.com
 play.mc.js.cool
 4gxb7l7p40.cloudflare-gateway.com
 www.mastervolt.com
-yg4.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 cfgo.timelate.com
@@ -114,14 +113,15 @@ bestcf.top
 cf.877771.xyz
 cf.130519.xyz
 hubspot.com
-buyshoes.shop
 cdnjs.cloudflare.com
 avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz
+yg4.ygkkk.dpdns.org
 ctlmt.info
 1.cloudflare.19931110.xyz
 cf.xreak.top
 packtpub.com
+buyshoes.shop
 oxylabs.io
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
@@ -131,6 +131,7 @@ cmcc.877774.xyz
 www.whatismyip.com
 cmcc.vvvv.ee
 crowdstrike.com
+go1.dematic.com
 mogas.com
 china.mfa.gov.ua
 yg1.ygkkk.dpdns.org
@@ -161,7 +162,6 @@ aandd.co.jp
 www.hypixel.net
 dynadot.com
 racerseseries.sky.com
-go1.dematic.com
 sunkist.com
 jquery.com
 networksolutions.com
