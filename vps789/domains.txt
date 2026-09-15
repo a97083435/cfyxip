@@ -9,16 +9,15 @@ cf.553314.xyz
 ip.skk.moe
 isp.254301.xyz
 cdn.2x.nz
+yx.cf.090227.xyz
 1.cloudflare.19931110.xyz
 top-fast.cf.3666888.xyz
 cfgo.timelate.com
-yx.cf.090227.xyz
 dx.doi.org
 builtbybuffalo.com
 tracker.metricool.com
 visa.com
 www.vmware.com
-codeforces.com
 fictiv.com
 youxuan.cf.090227.xyz
 www.petronaftco.com
@@ -45,6 +44,7 @@ store.ubi.com
 ahrefs.com
 www.sage.com
 networksolutions.com
+codeforces.com
 sg.cf.3666888.xyz
 1.cf.3666888.xyz
 7.cf.3666888.xyz
@@ -92,8 +92,8 @@ cfip-cm.stoeaves.us.ci
 play.mc.js.cool
 cf.xycf.asia
 lt.1930812.xyz
+cf.yj250.bond
 www.whoer.net
-www.ox.ac.uk
 virtualcommtraining.verizon.com
 mvnrepository.com
 uptimerobot.com
@@ -104,6 +104,7 @@ cdns.doon.eu.org
 cf-cname.xingpingcn.top
 cu.877774.xyz
 singapore.com
+cf.130519.xyz
 cf.3666888.xyz
 nexusmods.com
 dnew.cc
@@ -128,12 +129,12 @@ cf.xreak.top
 assets.bizclikmedia.net
 time.is
 ip.sb
+www.ox.ac.uk
 yg13.ygkkk.dpdns.org
 cdnjs.loli.net
 js.org
 ping.pe
 fn.130519.xyz
-cf.130519.xyz
 cmcc.vvvv.ee
 p.etime.vip
 www.libvio.site
@@ -148,7 +149,6 @@ www.sloomb.com
 edgeone.gh-proxy.org
 s.ee
 cloudflare.19931110.xyz
-cf.yj250.bond
 dogechain.info
 www.whatismyip.com
 investor.apple.com
@@ -158,7 +158,6 @@ aimagazine.com
 example.com
 cf.v8.longsays.com
 gh-proxy.com
-www.dentoncounty.gov
 www.crazygames.fr
 www.leics.police.uk
 www.canadatype.com
@@ -171,6 +170,7 @@ cloudflare.com
 cf1.v8.longsays.com
 cloudflare.net
 bestcf.030101.xyz
+www.dentoncounty.gov
 constitution.congress.gov
 syncfusion.com
 support.communilink.net
@@ -197,4 +197,4 @@ racerseseries.sky.com
 encryptedsni.com
 envato.com
 tinyurl.com
-eteaf.cf.3666888.xyz
+npmjs.com
