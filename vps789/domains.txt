@@ -21,7 +21,6 @@ securecircle.com
 cfip-ct.stoeaves.us.ci
 funko.com
 edgeone.gh-proxy.org
-www.ntu.edu.sg
 w3.org
 staticdelivery.nexusmods.com
 cf.3666888.xyz
@@ -51,6 +50,7 @@ www.vastnovel.com
 www.giannidelprete.it
 prompt.gzcrtw.com
 www.deepl.com
+www.ntu.edu.sg
 www.udacity.com
 cf.godns.cc
 dnew.cc
@@ -73,6 +73,7 @@ yfvsdf.cf.3666888.xyz
 www.ox.ac.uk
 cf-cname.xingpingcn.top
 www.shopify.com
+yxip.xxxxxxxx.tk
 b3.cfyx.20237737.xyz
 www.5199dy.com
 gh-proxy.com
@@ -86,9 +87,9 @@ yg12.ygkkk.dpdns.org
 www.broadcom.com
 uspto.gov
 www.090902.xyz
-yxip.xxxxxxxx.tk
 fn.130519.xyz
 sg.cf.3666888.xyz
+uac.cf.3666888.xyz
 cf.998866.top
 yg11.ygkkk.dpdns.org
 imooo.de
@@ -117,13 +118,13 @@ avido.cf.3666888.xyz
 eteaf.cf.3666888.xyz
 china.mfa.gov.ua
 ctlmt.info
+1.cloudflare.19931110.xyz
 cf.xreak.top
 packtpub.com
 buyshoes.shop
 oxylabs.io
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
-kickstarter.com
 cmcc.877774.xyz
 www.whatismyip.com
 cmcc.vvvv.ee
@@ -141,7 +142,6 @@ ctsg.cfyx.aliyun.20237737.xyz
 dongbanghong.com
 chrono24.com
 mail.murata.com
-1.cloudflare.19931110.xyz
 kick.com
 nodejs.org
 zj.7star.eu.cc
@@ -153,6 +153,7 @@ www.copilot.com
 digitalocean.com
 cf.090227.xyz
 www.epicgames.com
+kickstarter.com
 mfa.gov.ua
 zabc.net
 www.hypixel.net
@@ -164,8 +165,8 @@ jquery.com
 networksolutions.com
 www.jimdo.com
 zoominfo.com
-jobsdb.com
 isp.254301.xyz
+cloudflare.468123.xyz
 www.gov.il
 www.trumpinternationalrealty.com
 cfip-cu.stoeaves.us.ci
@@ -183,6 +184,7 @@ aandd.co.jp
 gitlab.com
 centerofthewest.org
 unpkg.com
+moodle.org
 www.government.is
 cf1.v8.longsays.com
 linkvertise.com
@@ -192,9 +194,7 @@ www.eccu.edu
 bestcf.030101.xyz
 666.cf.cname.vvhan.com
 api.uniapi.io
-serviceshub.samsclub.com
 hostinger.com
 www.sage.com
 tinyurl.com
 themeisle.com
-rocketreach.co
