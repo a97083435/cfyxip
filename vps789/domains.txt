@@ -91,6 +91,7 @@ www.090902.xyz
 fn.130519.xyz
 sg.cf.3666888.xyz
 uac.cf.3666888.xyz
+cf.998866.top
 yg11.ygkkk.dpdns.org
 imooo.de
 china-telecom.cname.cloudflare.468123.xyz
@@ -99,7 +100,6 @@ prizepicks.com
 play.mc.js.cool
 4gxb7l7p40.cloudflare-gateway.com
 www.mastervolt.com
-cf.998866.top
 yg4.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 cfgo.timelate.com
@@ -126,6 +126,7 @@ buyshoes.shop
 oxylabs.io
 cnamefuckxxs.yuchen.icu
 cf.v8.longsays.com
+kickstarter.com
 mfa.gov.ua
 cmcc.877774.xyz
 www.whatismyip.com
@@ -155,7 +156,6 @@ www.copilot.com
 digitalocean.com
 cf.090227.xyz
 www.epicgames.com
-kickstarter.com
 zabc.net
 www.hypixel.net
 dynadot.com
