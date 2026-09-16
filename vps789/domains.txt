@@ -9,7 +9,6 @@ spring.io
 www.vmware.com
 sanwang.cf.3666888.xyz
 qocu.cf.3666888.xyz
-5.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 securecircle.com
@@ -69,6 +68,7 @@ cfvip.cf.3666888.xyz
 avido.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
+5.cf.3666888.xyz
 6.cf.3666888.xyz
 10.cf.3666888.xyz
 cmcc.cc.cd
@@ -93,15 +93,16 @@ cf.468123.xyz
 4gxb7l7p40.cloudflare-gateway.com
 bestcf.top
 cf-cname.xingpingcn.top
+www.udacity.com
 cf.877771.xyz
 www.dentoncounty.gov
+guide.for.edu.sg
 www.mc.js.cool
 www.leics.police.uk
 keji.cf.3666888.xyz
 coke.cf.3666888.xyz
 cf.xreak.top
 sunkist.com
-guide.for.edu.sg
 cfyx.qdqqd.com
 hzytjy.cn
 ct.721660.xyz
@@ -189,6 +190,7 @@ blog.cloudflare.com
 a.pub.network
 www.elegantthemes.com
 digitalocean.com
+cfip.1323123.xyz
 ct.090227.xyz
 bestcf.030101.xyz
 ip.skk.moe
@@ -196,5 +198,3 @@ ip.skk.moe
 www.epicgames.com
 www.wto.org
 coreweave.com
-kwiat.com
-aftership.com
