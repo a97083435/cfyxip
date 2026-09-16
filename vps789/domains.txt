@@ -116,7 +116,6 @@ themeisle.com
 cdnjs.cloudflare.com
 uac.cf.3666888.xyz
 yg11.ygkkk.dpdns.org
-cmcc.cc.cd
 shanghai.mfa.gov.ua
 cdn.2x.nz
 www.sloomb.com
@@ -139,6 +138,7 @@ debot.ai
 envato.com
 tinyurl.com
 zoominfo.com
+cmcc.cc.cd
 ct.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
@@ -162,6 +162,7 @@ hostinger.com
 unpkg.com
 www.jimdo.com
 mogas.com
+youxuan.cf.636949.xyz
 cmcc.hw.090227.xyz
 ctlmt.info
 cloudflare.468123.xyz
@@ -197,4 +198,3 @@ www.epicgames.com
 coreweave.com
 kwiat.com
 aftership.com
-www.elysee.fr
