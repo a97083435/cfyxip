@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 09-17 04:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 09-17 04:42 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 cf.xycf.asia:443#VPS789优选 | cf.xycf.asia
@@ -21,6 +21,7 @@ www.ntu.edu.sg:443#VPS789优选 | www.ntu.edu.sg
 www.shopify.com:443#VPS789优选 | www.shopify.com
 www.5199dy.com:443#VPS789优选 | www.5199dy.com
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
+guide.for.edu.sg:443#VPS789优选 | guide.for.edu.sg
 constitution.congress.gov:443#VPS789优选 | constitution.congress.gov
 dnew.cc:443#VPS789优选 | dnew.cc
 www.sage.com:443#VPS789优选 | www.sage.com
@@ -69,7 +70,6 @@ cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
 adnjv.cf.3666888.xyz:443#VPS789优选 | adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz:443#VPS789优选 | hfqek.cf.3666888.xyz
-5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 6.cf.3666888.xyz:443#VPS789优选 | 6.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
 cmcc.cc.cd:443#VPS789优选 | cmcc.cc.cd
@@ -83,7 +83,6 @@ cfip-ct.stoeaves.us.ci:443#VPS789优选 | cfip-ct.stoeaves.us.ci
 play.mc.js.cool:443#VPS789优选 | play.mc.js.cool
 cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 openai.com:443#VPS789优选 | openai.com
-yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 linear.app:443#VPS789优选 | linear.app
 vip.cf.3666888.xyz:443#VPS789优选 | vip.cf.3666888.xyz
@@ -96,7 +95,8 @@ bestcf.top:443#VPS789优选 | bestcf.top
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 www.udacity.com:443#VPS789优选 | www.udacity.com
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
+yxip.xxxxxxxx.tk:443#VPS789优选 | yxip.xxxxxxxx.tk
 www.dentoncounty.gov:443#VPS789优选 | www.dentoncounty.gov
-guide.for.edu.sg:443#VPS789优选 | guide.for.edu.sg
 www.mc.js.cool:443#VPS789优选 | www.mc.js.cool
+www.leics.police.uk:443#VPS789优选 | www.leics.police.uk
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
