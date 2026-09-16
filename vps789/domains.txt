@@ -74,6 +74,7 @@ hfqek.cf.3666888.xyz
 cmcc.cc.cd
 www.bangbenjiaju.com
 uspto.gov
+www.carousell.sg
 www.vastnovel.com
 www.dg22.top
 www.akasantech.com
@@ -88,7 +89,7 @@ vip.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
 1.cf.3666888.xyz
 cf.468123.xyz
-www.carousell.sg
+1.cloudflare.19931110.xyz
 4gxb7l7p40.cloudflare-gateway.com
 bestcf.top
 cf-cname.xingpingcn.top
@@ -98,7 +99,6 @@ www.mc.js.cool
 www.leics.police.uk
 keji.cf.3666888.xyz
 coke.cf.3666888.xyz
-1.cloudflare.19931110.xyz
 cf.xreak.top
 sunkist.com
 mfa.gov.ua
@@ -115,7 +115,6 @@ themeisle.com
 cdnjs.cloudflare.com
 uac.cf.3666888.xyz
 www.mfyx.cn
-ct.hw.090227.xyz
 shanghai.mfa.gov.ua
 www.trump.com
 cdn.2x.nz
@@ -139,6 +138,7 @@ envato.com
 tinyurl.com
 zoominfo.com
 yg11.ygkkk.dpdns.org
+ct.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
 www.trumpinternationalrealty.com
@@ -184,10 +184,12 @@ builtbybuffalo.com
 yg4.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
 www.6i5.com
+tuite-c0f.pages.dev
 blog.cloudflare.com
 a.pub.network
 www.elegantthemes.com
 digitalocean.com
+cdn.2020111.xyz
 cfip.1323123.xyz
 ct.090227.xyz
 bestcf.030101.xyz
@@ -196,5 +198,3 @@ ip.skk.moe
 www.epicgames.com
 coreweave.com
 kwiat.com
-aftership.com
-www.elysee.fr
