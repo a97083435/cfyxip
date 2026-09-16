@@ -13,6 +13,7 @@ qocu.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
 securecircle.com
+china-telecom.cname.cloudflare.468123.xyz
 cfgo.timelate.com
 www.blibli.com
 funko.com
@@ -41,7 +42,6 @@ www.nexusmods.com
 ikankeji.com
 www.xiaoshuofen.com
 greim.no
-china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz
 markmonitor.com
 ctsg.cfyx.aliyun.20237737.xyz
@@ -101,7 +101,6 @@ keji.cf.3666888.xyz
 coke.cf.3666888.xyz
 cf.xreak.top
 sunkist.com
-mfa.gov.ua
 guide.for.edu.sg
 cfyx.qdqqd.com
 hzytjy.cn
@@ -110,6 +109,7 @@ cloudflare.19931110.xyz
 top-fast.cf.3666888.xyz
 webn.cc
 cloudflare.com
+mfa.gov.ua
 go1.dematic.com
 themeisle.com
 cdnjs.cloudflare.com
@@ -119,6 +119,7 @@ shanghai.mfa.gov.ua
 www.trump.com
 cdn.2x.nz
 www.sloomb.com
+www.giannidelprete.it
 prompt.gzcrtw.com
 prizepicks.com
 cf.553314.xyz
@@ -134,6 +135,7 @@ cmcc.877774.xyz
 fbi.gov
 cf.130519.xyz
 dynadot.com
+debot.ai
 envato.com
 tinyurl.com
 zoominfo.com
@@ -142,18 +144,16 @@ ct.hw.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 cf1.v8.longsays.com
 www.trumpinternationalrealty.com
-www.giannidelprete.it
 chrono24.com
 cf.yfjc.sbs
 kick.com
 nodejs.org
 store.epicgames.com
 tracker.metricool.com
+cdn.2020111.xyz
 dash.cloudflare.com
 flightradar24.com
 redis.io
-debot.ai
-www.wto.org
 racerseseries.sky.com
 hubspot.com
 hostinger.com
@@ -189,12 +189,12 @@ blog.cloudflare.com
 a.pub.network
 www.elegantthemes.com
 digitalocean.com
-cdn.2020111.xyz
-cfip.1323123.xyz
 ct.090227.xyz
 bestcf.030101.xyz
 ip.skk.moe
 666.cf.cname.vvhan.com
 www.epicgames.com
+www.wto.org
 coreweave.com
 kwiat.com
+aftership.com
