@@ -154,7 +154,6 @@ dash.cloudflare.com
 ip.skk.moe
 flightradar24.com
 redis.io
-racerseseries.sky.com
 hubspot.com
 hostinger.com
 unpkg.com
@@ -162,6 +161,7 @@ www.jimdo.com
 mogas.com
 youxuan.cf.636949.xyz
 cmcc.hw.090227.xyz
+www.6i5.com
 ctlmt.info
 api.cloudflare.com
 www.donaldjtrump.com
@@ -183,7 +183,6 @@ sourceforge.net
 builtbybuffalo.com
 yg4.ygkkk.dpdns.org
 yg5.ygkkk.dpdns.org
-www.6i5.com
 tuite-c0f.pages.dev
 blog.cloudflare.com
 a.pub.network
@@ -191,6 +190,7 @@ digitalocean.com
 ct.090227.xyz
 bestcf.030101.xyz
 666.cf.cname.vvhan.com
+racerseseries.sky.com
 coreweave.com
 kwiat.com
 aftership.com
