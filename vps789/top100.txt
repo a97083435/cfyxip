@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 09-17 09:11 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 09-17 09:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
@@ -30,6 +30,7 @@ youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
 cdn.cf.3666888.xyz:443#VPS789优选 | cdn.cf.3666888.xyz
 youxuan.cf.3666888.xyz:443#VPS789优选 | youxuan.cf.3666888.xyz
 cf.cf.3666888.xyz:443#VPS789优选 | cf.cf.3666888.xyz
+cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 3.cf.3666888.xyz:443#VPS789优选 | 3.cf.3666888.xyz
 4.cf.3666888.xyz:443#VPS789优选 | 4.cf.3666888.xyz
@@ -64,7 +65,6 @@ www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 hk.cf.3666888.xyz:443#VPS789优选 | hk.cf.3666888.xyz
 sg.cf.3666888.xyz:443#VPS789优选 | sg.cf.3666888.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
-cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 123.cf.3666888.xyz:443#VPS789优选 | 123.cf.3666888.xyz
 avido.cf.3666888.xyz:443#VPS789优选 | avido.cf.3666888.xyz
