@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 09-17 10:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 09-17 11:11 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
@@ -13,7 +13,6 @@ www.vmware.com:443#VPS789优选 | www.vmware.com
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
 sanwang.cf.3666888.xyz:443#VPS789优选 | sanwang.cf.3666888.xyz
 qocu.cf.3666888.xyz:443#VPS789优选 | qocu.cf.3666888.xyz
-11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 yg12.ygkkk.dpdns.org:443#VPS789优选 | yg12.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 securecircle.com:443#VPS789优选 | securecircle.com
@@ -40,6 +39,7 @@ eteaf.cf.3666888.xyz:443#VPS789优选 | eteaf.cf.3666888.xyz
 8.cf.3666888.xyz:443#VPS789优选 | 8.cf.3666888.xyz
 9.cf.3666888.xyz:443#VPS789优选 | 9.cf.3666888.xyz
 10.cf.3666888.xyz:443#VPS789优选 | 10.cf.3666888.xyz
+11.cf.3666888.xyz:443#VPS789优选 | 11.cf.3666888.xyz
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 www.broadcom.com:443#VPS789优选 | www.broadcom.com
 www.nexusmods.com:443#VPS789优选 | www.nexusmods.com
