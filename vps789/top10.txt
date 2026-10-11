@@ -1,11 +1,11 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 10-12 01:40 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP10 | 10-12 02:10 | BestCF.pages.dev
 ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
+cf.xreak.top:443#VPS789优选 | cf.xreak.top
 comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 ikankeji.com:443#VPS789优选 | ikankeji.com
-cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 jp.cf.3666888.xyz:443#VPS789优选 | jp.cf.3666888.xyz
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
