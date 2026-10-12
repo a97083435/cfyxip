@@ -178,6 +178,7 @@ eteaf.cf.3666888.xyz
 cf.998866.top
 china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
+www.sofi.com
 run.254301.xyz
 ct.hw.090227.xyz
 api.cloudflare.com
@@ -190,11 +191,10 @@ www.apnic.net
 cloudflare.net
 tajikistan.mfa.gov.ua
 dynadot.com
+da.mfa.gov.ua
 jobsdb.com
 help.kolet.com
 cf1s.cf.3666888.xyz
-www.sofi.com
 hzytjy.cn
 cf.xycf.asia
 cdn.fiatnorm.us.kg
-cf.777791.xyz
