@@ -57,7 +57,7 @@ throneproj/ThroneForAndroid|2.0.2|2026-10-10
 tljk/FlClash-ohos|0.8.94+2026091802|2026-09-18
 v2fly/v2ray-core|5.53.0|2026-08-03
 v2rayA/v2rayA|2.5.10|2026-10-09
-vernesong/OpenClash|0.47.156|2026-08-10
+vernesong/OpenClash|0.48.002|2026-10-12
 vernesong/mihomo|Pre-release
 xiaobaigroup/ClashBox|1.7.4|2026-04-02
 xiaoli8571/NekoBox4Harmony|2.0.2|2026-09-18
