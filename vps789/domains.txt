@@ -13,6 +13,7 @@ www.galgamex.net
 china-telecom.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
 ctsg.cfyx.aliyun.20237737.xyz
+www.oopt.eu.cc
 cf.553314.xyz
 cloudflare.19931110.xyz
 down.anycast.mom
@@ -36,7 +37,6 @@ uspto.gov
 china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz
 markmonitor.com
-www.oopt.eu.cc
 dongbanghong.com
 cdn.ddeed.de
 cf.92555.xyz
@@ -78,7 +78,6 @@ fw8je9.cf.3666888.xyz
 test.509666.xyz
 cf.468123.xyz
 cdn.2x.nz
-1.cloudflare.19931110.xyz
 www.deepl.com
 yfvsdf.cf.3666888.xyz
 comet57.cf.090227.xyz
@@ -92,6 +91,7 @@ adnjv.cf.3666888.xyz
 www.xiaoshuofen.com
 chinwa.cf.090227.xyz
 cfip-avg.stoeaves.us.ci
+1.cloudflare.19931110.xyz
 www.aneko.ink
 www.ntu.edu.sg
 www.5199dy.com
@@ -139,7 +139,6 @@ www.speedtest.net
 cdnjs.cloudflare.com
 sg.cf.3666888.xyz
 3.cf.3666888.xyz
-run.254301.xyz
 01-qq.com
 cf.qq.ms
 edgeone.gh-proxy.org
@@ -153,12 +152,14 @@ registry.yarnpkg.com
 www.visa.com.hk
 dash.cloudflare.com
 bestcf.030101.xyz
+mfa.gov.ua
 www.mastervolt.com
 coreweave.com
 themeisle.com
 youxuan.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
 www.broadcom.com
+run.254301.xyz
 funko.com
 ex.warspite.dpdns.org
 kick.com
@@ -167,12 +168,10 @@ cloudflare.com
 blog.cloudflare.com
 visa.com
 www.epicgames.com
-videodelivery.net
-mfa.gov.ua
-fbi.gov
-da.mfa.gov.ua
-www.wto.org
 virtualcommtraining.verizon.com
+videodelivery.net
+fbi.gov
+www.wto.org
 www.npmjs.com
 sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz
@@ -193,8 +192,9 @@ www.apnic.net
 cloudflare.net
 tajikistan.mfa.gov.ua
 dynadot.com
+da.mfa.gov.ua
 help.kolet.com
 cf1s.cf.3666888.xyz
+wppaunz.com
 hzytjy.cn
 shanghai.mfa.gov.ua
-www.trump.com
