@@ -114,7 +114,6 @@ vip.cf.3666888.xyz
 cf.cf.3666888.xyz
 2.cf.3666888.xyz
 www.mlkj888.com
-cfgo.timelate.com
 4gxb7l7p40.cloudflare-gateway.com
 doordash.com
 www.postman.com
@@ -126,7 +125,9 @@ tinyurl.com
 www.bis.gov
 101yaoye.com
 cmcc.hw.090227.xyz
+cfgo.timelate.com
 prizepicks.com
+edgeone.gh-proxy.org
 images.chesscomfiles.com
 www.090902.xyz
 cfip.1323123.xyz
@@ -136,12 +137,12 @@ smapi.xystem138.com
 bestcf.top
 666.cf.cname.vvhan.com
 www.speedtest.net
+coreweave.com
 cdnjs.cloudflare.com
 sg.cf.3666888.xyz
 3.cf.3666888.xyz
 01-qq.com
 cf.qq.ms
-edgeone.gh-proxy.org
 www.spaceship.com
 cf.0sm.com
 zero-trust-client.cloudflareclient.com
@@ -154,7 +155,6 @@ bestcf.030101.xyz
 mfa.gov.ua
 www.wto.org
 www.mastervolt.com
-coreweave.com
 themeisle.com
 youxuan.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
@@ -171,6 +171,7 @@ blog.cloudflare.com
 videodelivery.net
 fbi.gov
 virtualcommtraining.verizon.com
+www.npmjs.com
 sanwang.cf.3666888.xyz
 jp.cf.3666888.xyz
 challenges.cloudflare.com
@@ -185,7 +186,6 @@ ct.721660.xyz
 my.vultr.com
 digitalocean.com
 cloudflare.tv
-www.npmjs.com
 www.apnic.net
 cloudflare.net
 tajikistan.mfa.gov.ua
