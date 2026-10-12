@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP20 | 10-12 14:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP20 | 10-12 15:10 | BestCF.pages.dev
 comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 chinwa.cf.090227.xyz:443#VPS789优选 | chinwa.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
@@ -12,10 +12,10 @@ cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 1.cf.3666888.xyz:443#VPS789优选 | 1.cf.3666888.xyz
 china-unicom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
+cf.godns.cc:443#VPS789优选 | cf.godns.cc
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
 www.sage.com:443#VPS789优选 | www.sage.com
-cf1s.cf.3666888.xyz:443#VPS789优选 | cf1s.cf.3666888.xyz
 uac.cf.3666888.xyz:443#VPS789优选 | uac.cf.3666888.xyz
 www.bangbenjiaju.com:443#VPS789优选 | www.bangbenjiaju.com
 1.cloudflare.19931110.xyz:443#VPS789优选 | 1.cloudflare.19931110.xyz
