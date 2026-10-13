@@ -27,6 +27,7 @@ www.blibli.com
 ex.warspite.dpdns.org
 comet57.cf.090227.xyz
 cdns.doon.eu.org
+ct.090227.xyz
 cf-cname.xingpingcn.top
 fn.130519.xyz
 cf.130519.xyz
@@ -43,7 +44,6 @@ cf.553314.xyz
 cdn.ddeed.de
 www.deepl.com
 down.anycast.mom
-ct.090227.xyz
 cf.v8.longsays.com
 www.ntu.edu.sg
 www.shopify.com
@@ -105,6 +105,7 @@ cloudflare.com
 cloudflare.net
 5.cf.3666888.xyz
 ct.721660.xyz
+www.090902.xyz
 nist.gov
 journeys.com
 challenges.cloudflare.com
@@ -120,7 +121,6 @@ wppaunz.com
 www.mlkj888.com
 kick.com
 images.chesscomfiles.com
-www.090902.xyz
 cf.777791.xyz
 digitalocean.com
 visa.com
@@ -136,7 +136,6 @@ zen-browser.app
 nodejs.org
 obsidian.md
 cnamefuckxxs.yuchen.icu
-videodelivery.net
 bestcf.030101.xyz
 fbi.gov
 mogas.com
@@ -146,6 +145,7 @@ pubs.acs.org
 my.vultr.com
 registry.yarnpkg.com
 api.producthunt.com
+videodelivery.net
 www.whatismyip.com
 www.postman.com
 dx.doi.org
@@ -166,6 +166,7 @@ www.elysee.fr
 clickhouse.com
 c.lma.de5.net
 crinacle.com
+cdn.555586.xyz
 img.css.sd
 webn.cc
 api.cloudflare.com
@@ -192,7 +193,6 @@ ct.877774.xyz
 b3.cfyx.20237737.xyz
 cf.3666888.xyz
 qoj.ac
-cdn.555586.xyz
 uac.cf.3666888.xyz
 www.bangbenjiaju.com
 cfip-cm.stoeaves.us.ci
