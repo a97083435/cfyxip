@@ -1,14 +1,14 @@
-162.159.198.1:8443#VPS789优选域名 TOP20 | 10-13 12:40 | BestCF.pages.dev
-m.iyf.tv:8443#VPS789优选 | m.iyf.tv
+162.159.198.1:8443#VPS789优选域名 TOP20 | 10-13 13:10 | BestCF.pages.dev
+cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
 greim.no:8443#VPS789优选 | greim.no
 china-telecom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 midjourney.com:8443#VPS789优选 | midjourney.com
-cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
+cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 www.shopify.com:8443#VPS789优选 | www.shopify.com
 cfsaas.080112.xyz:8443#VPS789优选 | cfsaas.080112.xyz
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
-blog.raindew.576555.xyz:8443#VPS789优选 | blog.raindew.576555.xyz
 nexusmods.com:8443#VPS789优选 | nexusmods.com
+m.iyf.tv:8443#VPS789优选 | m.iyf.tv
 www.leics.police.uk:8443#VPS789优选 | www.leics.police.uk
 uac.cf.3666888.xyz:8443#VPS789优选 | uac.cf.3666888.xyz
 hfqek.cf.3666888.xyz:8443#VPS789优选 | hfqek.cf.3666888.xyz
