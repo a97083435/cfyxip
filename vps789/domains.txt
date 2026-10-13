@@ -138,6 +138,7 @@ www.speedtest.net
 cdnjs.cloudflare.com
 sg.cf.3666888.xyz
 3.cf.3666888.xyz
+run.254301.xyz
 www.6i5.com
 01-qq.com
 cf.qq.ms
@@ -158,7 +159,7 @@ themeisle.com
 youxuan.cf.3666888.xyz
 yg6.ygkkk.dpdns.org
 www.broadcom.com
-run.254301.xyz
+ct.hw.090227.xyz
 funko.com
 ex.warspite.dpdns.org
 registry.npmjs.org
@@ -169,6 +170,7 @@ kick.com
 cloudflare.com
 registry.yarnpkg.com
 blog.cloudflare.com
+digitalocean.com
 videodelivery.net
 fbi.gov
 virtualcommtraining.verizon.com
@@ -181,12 +183,10 @@ cf.998866.top
 china.mfa.gov.ua
 yg11.ygkkk.dpdns.org
 www.sofi.com
-ct.hw.090227.xyz
 hzytjy.cn
 api.cloudflare.com
 ct.721660.xyz
 my.vultr.com
-digitalocean.com
 www.npmjs.com
 www.apnic.net
 cloudflare.net
