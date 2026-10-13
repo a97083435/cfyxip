@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-13 08:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-13 09:10 | BestCF.pages.dev
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 4.cf.3666888.xyz:8443#VPS789优选 | 4.cf.3666888.xyz
 greim.no:8443#VPS789优选 | greim.no
@@ -37,7 +37,6 @@ uspto.gov:8443#VPS789优选 | uspto.gov
 china-unicom.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-unicom.cname.cloudflare.468123.xyz
 china-mobile.cname.cloudflare.468123.xyz:8443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 markmonitor.com:8443#VPS789优选 | markmonitor.com
-www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 dongbanghong.com:8443#VPS789优选 | dongbanghong.com
 cdn.ddeed.de:8443#VPS789优选 | cdn.ddeed.de
 cf.92555.xyz:8443#VPS789优选 | cf.92555.xyz
@@ -49,4 +48,5 @@ openai.com:8443#VPS789优选 | openai.com
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
 b3.cfyx.20237737.xyz:8443#VPS789优选 | b3.cfyx.20237737.xyz
 store.ubi.com:8443#VPS789优选 | store.ubi.com
+gh-proxy.com:8443#VPS789优选 | gh-proxy.com
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
