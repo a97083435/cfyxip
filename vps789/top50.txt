@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-14 10:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-14 11:11 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 jobsdb.com:443#VPS789优选 | jobsdb.com
 youxuan.cf.090227.xyz:443#VPS789优选 | youxuan.cf.090227.xyz
@@ -16,7 +16,6 @@ ex.warspite.dpdns.org:443#VPS789优选 | ex.warspite.dpdns.org
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cloudflare.19931110.xyz:443#VPS789优选 | cloudflare.19931110.xyz
 cf.090227.xyz:443#VPS789优选 | cf.090227.xyz
-staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
 spring.io:443#VPS789优选 | spring.io
 coreweave.com:443#VPS789优选 | coreweave.com
@@ -28,11 +27,13 @@ www.galgamex.net:443#VPS789优选 | www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.cloudflare.468123.xyz
 www.carousell.sg:443#VPS789优选 | www.carousell.sg
 www.blibli.com:443#VPS789优选 | www.blibli.com
+www.akasantech.com:443#VPS789优选 | www.akasantech.com
 comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 w3.org:443#VPS789优选 | w3.org
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
 ct.090227.xyz:443#VPS789优选 | ct.090227.xyz
 cf-cname.xingpingcn.top:443#VPS789优选 | cf-cname.xingpingcn.top
+staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 da.mfa.gov.ua:443#VPS789优选 | da.mfa.gov.ua
 cfyx.aliyun.20237737.xyz:443#VPS789优选 | cfyx.aliyun.20237737.xyz
@@ -40,7 +41,6 @@ nexusmods.com:443#VPS789优选 | nexusmods.com
 greim.no:443#VPS789优选 | greim.no
 yx.cf.090227.xyz:443#VPS789优选 | yx.cf.090227.xyz
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
-www.akasantech.com:443#VPS789优选 | www.akasantech.com
 www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 cf.553314.xyz:443#VPS789优选 | cf.553314.xyz
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
