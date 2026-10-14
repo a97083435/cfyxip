@@ -149,7 +149,6 @@ shanghai.mfa.gov.ua
 coke.cf.3666888.xyz
 neko.cloudflaree.eu.org
 s.ee
-images.chesscomfiles.com
 www.zendesk.com
 liz.us.ci
 dx.doi.org
@@ -177,6 +176,7 @@ www.gov.il
 scalacube.com
 prompt.gzcrtw.com
 yd.hhhhh.eu.org
+images.chesscomfiles.com
 www.090902.xyz
 aimagazine.com
 www.aneko.ink
@@ -190,6 +190,7 @@ builtbybuffalo.com
 challenges.cloudflare.com
 www.6i5.com
 www.donaldjtrump.com
+www.roche.com
 codexradar.com
 noc.one
 api2-ide.imgnxa.com
@@ -197,4 +198,3 @@ tarkov-market.com
 n8n.io
 ip.sb
 dash.cloudflare.com
-ping.pe
