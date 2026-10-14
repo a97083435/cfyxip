@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP100 | 10-15 06:12 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP100 | 10-15 06:41 | BestCF.pages.dev
 cfsaas.080112.xyz:443#VPS789优选 | cfsaas.080112.xyz
 cdn.2x.nz:443#VPS789优选 | cdn.2x.nz
 www.oopt.eu.cc:443#VPS789优选 | www.oopt.eu.cc
@@ -43,6 +43,7 @@ www.dg22.top:443#VPS789优选 | www.dg22.top
 cf.92555.xyz:443#VPS789优选 | cf.92555.xyz
 mail.notion.com:443#VPS789优选 | mail.notion.com
 coreweave.com:443#VPS789优选 | coreweave.com
+kickstarter.com:443#VPS789优选 | kickstarter.com
 mfa.gov.ua:443#VPS789优选 | mfa.gov.ua
 cu.877774.xyz:443#VPS789优选 | cu.877774.xyz
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
@@ -78,7 +79,6 @@ down.anycast.mom:443#VPS789优选 | down.anycast.mom
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 midjourney.com:443#VPS789优选 | midjourney.com
 cdns.doon.eu.org:443#VPS789优选 | cdns.doon.eu.org
-cf.v8.longsays.com:443#VPS789优选 | cf.v8.longsays.com
 fn.130519.xyz:443#VPS789优选 | fn.130519.xyz
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
 gh-proxy.com:443#VPS789优选 | gh-proxy.com
@@ -88,6 +88,7 @@ www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 cfvip.cf.3666888.xyz:443#VPS789优选 | cfvip.cf.3666888.xyz
 2.cf.3666888.xyz:443#VPS789优选 | 2.cf.3666888.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
+isp.254301.xyz:443#VPS789优选 | isp.254301.xyz
 5.cf.3666888.xyz:443#VPS789优选 | 5.cf.3666888.xyz
 china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
 yg6.ygkkk.dpdns.org:443#VPS789优选 | yg6.ygkkk.dpdns.org
@@ -98,5 +99,4 @@ cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 www.blibli.com:443#VPS789优选 | www.blibli.com
 dongbanghong.com:443#VPS789优选 | dongbanghong.com
 www.vastnovel.com:443#VPS789优选 | www.vastnovel.com
-www.giannidelprete.it:443#VPS789优选 | www.giannidelprete.it
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
