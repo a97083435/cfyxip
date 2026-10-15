@@ -9,10 +9,10 @@ ex.warspite.dpdns.org
 blog.646474.xyz
 ip.skk.moe
 blog.raindew.576555.xyz
+youxuan.cf.090227.xyz
 yx.cf.090227.xyz
 cf.553314.xyz
 cf-cname.xingpingcn.top
-youxuan.cf.090227.xyz
 china-mobile.cname.cloudflare.468123.xyz
 chinwa.cf.090227.xyz
 cdn.2x.nz
@@ -128,6 +128,7 @@ cfip-ct.stoeaves.us.ci
 www.090902.xyz
 visa.com
 builtbybuffalo.com
+zen-browser.app
 da.mfa.gov.ua
 dnew.cc
 virtualcommtraining.verizon.com
@@ -137,7 +138,6 @@ sg.cf.3666888.xyz
 test.509666.xyz
 ikankeji.com
 hzytjy.cn
-zen-browser.app
 visa.com.tw
 dongbanghong.com
 cfip-cu.stoeaves.us.ci
@@ -147,7 +147,7 @@ cloudflare.19931110.xyz
 cdn.jwcmdr.top
 cf.0sm.com
 jobsdb.com
-www.xiaoshuofen.com
+investor.apple.com
 lt.zhuqq.qzz.io
 cdnjs.loli.net
 cfip.1323123.xyz
@@ -155,6 +155,7 @@ ct.090227.xyz
 cloudflare.net
 dianomi.com
 w3.org
+codeforces.com
 buyshoes.shop
 www.ventusky.com
 crinacle.com
@@ -169,7 +170,7 @@ www.whoer.net
 www.hugedomains.com
 9mod.com
 fictiv.com
-investor.apple.com
+www.xiaoshuofen.com
 codexradar.com
 ip.sb
 dash.cloudflare.com
@@ -186,6 +187,7 @@ db-ip.com
 codewars.com
 royalroad.com
 warframe.market
+ping.pe
 icook.tw
 vayyar.com
 mvnrepository.com
@@ -196,5 +198,3 @@ cu.zxy88.eu.org
 api2-ide.imgnxa.com
 assets.bizclikmedia.net
 example.com
-bestcf.top
-cf.v8.longsays.com
