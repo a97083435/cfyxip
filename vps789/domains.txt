@@ -106,7 +106,6 @@ play.mc.js.cool
 cf.92555.xyz
 www.deepl.com
 lt.1930812.xyz
-www.090902.xyz
 liz.us.ci
 cdn.aneko.ink
 doordash.com
@@ -127,6 +126,7 @@ pttime.org
 cmcc.hw.090227.xyz
 greim.no
 cfip-ct.stoeaves.us.ci
+www.090902.xyz
 visa.com
 builtbybuffalo.com
 zen-browser.app
@@ -178,6 +178,7 @@ royalroad.com
 ip.sb
 dash.cloudflare.com
 www.postman.com
+hostinger.com
 www.sage.com
 networksolutions.com
 www.petronaftco.com
@@ -193,7 +194,6 @@ ping.pe
 icook.tw
 vayyar.com
 mvnrepository.com
-help.kolet.com
 www.meteorelectrical.com
 support.communilink.net
 yg1.ygkkk.dpdns.org
