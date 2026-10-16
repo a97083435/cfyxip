@@ -1,4 +1,4 @@
-162.159.198.1:443#VPS789优选域名 TOP50 | 10-16 11:41 | BestCF.pages.dev
+162.159.198.1:443#VPS789优选域名 TOP50 | 10-16 12:11 | BestCF.pages.dev
 comet57.cf.090227.xyz:443#VPS789优选 | comet57.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 cf.godns.cc:443#VPS789优选 | cf.godns.cc
@@ -20,7 +20,6 @@ china-mobile.cname.cloudflare.468123.xyz:443#VPS789优选 | china-mobile.cname.c
 cf.xreak.top:443#VPS789优选 | cf.xreak.top
 cf.130519.xyz:443#VPS789优选 | cf.130519.xyz
 cmcc.vvvv.ee:443#VPS789优选 | cmcc.vvvv.ee
-www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 yg8.ygkkk.dpdns.org:443#VPS789优选 | yg8.ygkkk.dpdns.org
 yg9.ygkkk.dpdns.org:443#VPS789优选 | yg9.ygkkk.dpdns.org
 ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
@@ -28,17 +27,19 @@ ct.hw.090227.xyz:443#VPS789优选 | ct.hw.090227.xyz
 merlin.ns.cloudflare.com:443#VPS789优选 | merlin.ns.cloudflare.com
 cf.877771.xyz:443#VPS789优选 | cf.877771.xyz
 mfa.gov.ua:443#VPS789优选 | mfa.gov.ua
+www.speedtest.net:443#VPS789优选 | www.speedtest.net
 cf.3666888.xyz:443#VPS789优选 | cf.3666888.xyz
+www.crazygames.fr:443#VPS789优选 | www.crazygames.fr
 cdn.555586.xyz:443#VPS789优选 | cdn.555586.xyz
 fw8je9.cf.3666888.xyz:443#VPS789优选 | fw8je9.cf.3666888.xyz
 china.mfa.gov.ua:443#VPS789优选 | china.mfa.gov.ua
 yg11.ygkkk.dpdns.org:443#VPS789优选 | yg11.ygkkk.dpdns.org
 china-telecom.cname.cloudflare.468123.xyz:443#VPS789优选 | china-telecom.cname.cloudflare.468123.xyz
 cdn.091224.xyz:443#VPS789优选 | cdn.091224.xyz
+cloudflare.468123.xyz:443#VPS789优选 | cloudflare.468123.xyz
 cfgo.timelate.com:443#VPS789优选 | cfgo.timelate.com
 www.sloomb.com:443#VPS789优选 | www.sloomb.com
 midjourney.com:443#VPS789优选 | midjourney.com
-www.speedtest.net:443#VPS789优选 | www.speedtest.net
 store.ubi.com:443#VPS789优选 | store.ubi.com
 staticdelivery.nexusmods.com:443#VPS789优选 | staticdelivery.nexusmods.com
 linear.app:443#VPS789优选 | linear.app
@@ -48,5 +49,4 @@ gh-proxy.com:443#VPS789优选 | gh-proxy.com
 ahrefs.com:443#VPS789优选 | ahrefs.com
 www.vmware.com:443#VPS789优选 | www.vmware.com
 m.iyf.tv:443#VPS789优选 | m.iyf.tv
-yg13.ygkkk.dpdns.org:443#VPS789优选 | yg13.ygkkk.dpdns.org
 162.159.197.1:443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
