@@ -1,17 +1,17 @@
-162.159.198.1:443#vvHan优选IPv6 | 10-16 07:32 | BestCF.pages.dev
-[2606:4700:9c69:1781:b3d0:2195:fd05:6e9]:443#vvHan优选 | 移动 | Default | 2606:4700:9c69:1781:b3d0:2195:fd05:6e9
-[2606:4700:9c69:c0e1:f971:8c58:5efc:ac40]:443#vvHan优选 | 移动 | Default | 2606:4700:9c69:c0e1:f971:8c58:5efc:ac40
-[2606:4700:8de0:134d:24c:1722:f43e:e5ee]:443#vvHan优选 | 移动 | Default | 2606:4700:8de0:134d:24c:1722:f43e:e5ee
-[2606:4700:8dd9:83b4:7ffe:b368:4fbe:1698]:443#vvHan优选 | 移动 | Default | 2606:4700:8dd9:83b4:7ffe:b368:4fbe:1698
-[2606:4700:8de0:b376:7b74:b7ce:d22:8443]:443#vvHan优选 | 移动 | Default | 2606:4700:8de0:b376:7b74:b7ce:d22:8443
-[2606:4700:9c69:1781:b3d0:2195:fd05:6e9]:443#vvHan优选 | 联通 | Default | 2606:4700:9c69:1781:b3d0:2195:fd05:6e9
-[2606:4700:9c69:c0e1:f971:8c58:5efc:ac40]:443#vvHan优选 | 联通 | Default | 2606:4700:9c69:c0e1:f971:8c58:5efc:ac40
-[2606:4700:8de0:134d:24c:1722:f43e:e5ee]:443#vvHan优选 | 联通 | Default | 2606:4700:8de0:134d:24c:1722:f43e:e5ee
-[2606:4700:8dd9:83b4:7ffe:b368:4fbe:1698]:443#vvHan优选 | 联通 | Default | 2606:4700:8dd9:83b4:7ffe:b368:4fbe:1698
-[2606:4700:8de0:b376:7b74:b7ce:d22:8443]:443#vvHan优选 | 联通 | Default | 2606:4700:8de0:b376:7b74:b7ce:d22:8443
-[2606:4700:9c69:1781:b3d0:2195:fd05:6e9]:443#vvHan优选 | 电信 | Default | 2606:4700:9c69:1781:b3d0:2195:fd05:6e9
-[2606:4700:9c69:c0e1:f971:8c58:5efc:ac40]:443#vvHan优选 | 电信 | Default | 2606:4700:9c69:c0e1:f971:8c58:5efc:ac40
-[2606:4700:8de0:134d:24c:1722:f43e:e5ee]:443#vvHan优选 | 电信 | Default | 2606:4700:8de0:134d:24c:1722:f43e:e5ee
-[2606:4700:8dd9:83b4:7ffe:b368:4fbe:1698]:443#vvHan优选 | 电信 | Default | 2606:4700:8dd9:83b4:7ffe:b368:4fbe:1698
-[2606:4700:8de0:b376:7b74:b7ce:d22:8443]:443#vvHan优选 | 电信 | Default | 2606:4700:8de0:b376:7b74:b7ce:d22:8443
+162.159.198.1:443#vvHan优选IPv6 | 10-16 08:02 | BestCF.pages.dev
+[2606:4700:9b09:927c:efa6:817f:668e:bca0]:443#vvHan优选 | 移动 | Default | 2606:4700:9b09:927c:efa6:817f:668e:bca0
+[2606:4700:839d:14dd:e2da:e296:a60f:6699]:443#vvHan优选 | 移动 | Default | 2606:4700:839d:14dd:e2da:e296:a60f:6699
+[2606:4700:8ca4:512c:ab6f:f232:fee1:e9c2]:443#vvHan优选 | 移动 | Default | 2606:4700:8ca4:512c:ab6f:f232:fee1:e9c2
+[2606:4700:8ca4:2b10:bdd0:e406:5e77:f558]:443#vvHan优选 | 移动 | Default | 2606:4700:8ca4:2b10:bdd0:e406:5e77:f558
+[2606:4700:8cac:8af3:b95e:e3bf:9588:2c1d]:443#vvHan优选 | 移动 | Default | 2606:4700:8cac:8af3:b95e:e3bf:9588:2c1d
+[2606:4700:9b09:927c:efa6:817f:668e:bca0]:443#vvHan优选 | 联通 | Default | 2606:4700:9b09:927c:efa6:817f:668e:bca0
+[2606:4700:839d:14dd:e2da:e296:a60f:6699]:443#vvHan优选 | 联通 | Default | 2606:4700:839d:14dd:e2da:e296:a60f:6699
+[2606:4700:8ca4:512c:ab6f:f232:fee1:e9c2]:443#vvHan优选 | 联通 | Default | 2606:4700:8ca4:512c:ab6f:f232:fee1:e9c2
+[2606:4700:8ca4:2b10:bdd0:e406:5e77:f558]:443#vvHan优选 | 联通 | Default | 2606:4700:8ca4:2b10:bdd0:e406:5e77:f558
+[2606:4700:8cac:8af3:b95e:e3bf:9588:2c1d]:443#vvHan优选 | 联通 | Default | 2606:4700:8cac:8af3:b95e:e3bf:9588:2c1d
+[2606:4700:9b09:927c:efa6:817f:668e:bca0]:443#vvHan优选 | 电信 | Default | 2606:4700:9b09:927c:efa6:817f:668e:bca0
+[2606:4700:839d:14dd:e2da:e296:a60f:6699]:443#vvHan优选 | 电信 | Default | 2606:4700:839d:14dd:e2da:e296:a60f:6699
+[2606:4700:8ca4:512c:ab6f:f232:fee1:e9c2]:443#vvHan优选 | 电信 | Default | 2606:4700:8ca4:512c:ab6f:f232:fee1:e9c2
+[2606:4700:8ca4:2b10:bdd0:e406:5e77:f558]:443#vvHan优选 | 电信 | Default | 2606:4700:8ca4:2b10:bdd0:e406:5e77:f558
+[2606:4700:8cac:8af3:b95e:e3bf:9588:2c1d]:443#vvHan优选 | 电信 | Default | 2606:4700:8cac:8af3:b95e:e3bf:9588:2c1d
 162.159.197.1:443#vvHan优选IPv6 | 分享免费优选网 BestCF.pages.dev
