@@ -103,6 +103,7 @@ w3.org
 duggal.com
 yg1.ygkkk.dpdns.org
 warframe.market
+ping.pe
 bestcf.030101.xyz
 mfa.gov.ua
 cmcc.877774.xyz
@@ -116,12 +117,10 @@ cfip-cm.stoeaves.us.ci
 cfip.1323123.xyz
 time.is
 ip.sb
-ping.pe
 www.whoer.net
 dx.doi.org
 mvnrepository.com
 shanghai.mfa.gov.ua
-noc.one
 cdnjs.loli.net
 gamebanana.com
 obsidian.md
@@ -146,7 +145,6 @@ cf1.v8.longsays.com
 linkvertise.com
 yd.hhhhh.eu.org
 www.chess.com
-registry.npmjs.org
 s.ee
 my.vultr.com
 rankmath.com
@@ -154,7 +152,6 @@ tarkov-market.com
 ct.090227.xyz
 www.udacity.com
 fbi.gov
-www.5199dy.com
 constitution.congress.gov
 tinyurl.com
 www.jimdo.com
@@ -164,11 +161,14 @@ img.css.sd
 china-mobile.cname.cloudflare.468123.xyz
 www.dg22.top
 prizepicks.com
+registry.npmjs.org
 www.hugedomains.com
 clickhouse.com
+noc.one
 cal.com
 dash.cloudflare.com
 openai.com
+www.5199dy.com
 blog.raindew.576555.xyz
 journeys.com
 themeisle.com
