@@ -2,6 +2,7 @@ cfsaas.080112.xyz
 yg8.ygkkk.dpdns.org
 ip.skk.moe
 www.shopify.com
+linear.app
 www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz
 cloudflare.468123.xyz
@@ -19,6 +20,7 @@ merlin.ns.cloudflare.com
 jobsdb.com
 cf-cname.xingpingcn.top
 cfyx.aliyun.20237737.xyz
+dnew.cc
 www.leics.police.uk
 youxuan.cf.090227.xyz
 sanwang.cf.3666888.xyz
@@ -52,6 +54,7 @@ ex.warspite.dpdns.org
 video.ouo.chat
 down.anycast.mom
 cdn.aneko.ink
+www.sofi.com
 openai.com
 mfa.gov.ua
 cf.130519.xyz
@@ -62,7 +65,9 @@ qocu.cf.3666888.xyz
 8.cf.3666888.xyz
 9.cf.3666888.xyz
 test.509666.xyz
+china.mfa.gov.ua
 www.bangbenjiaju.com
+imooo.de
 cfgo.timelate.com
 markmonitor.com
 www.blibli.com
@@ -72,9 +77,9 @@ play.mc.js.cool
 www.wto.org
 yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
-imooo.de
 cf.468123.xyz
 store.ubi.com
+ahrefs.com
 yg12.ygkkk.dpdns.org
 www.nexusmods.com
 ct.hw.090227.xyz
@@ -125,7 +130,6 @@ www.crazygames.fr
 www.revechat.com
 vip.cf.3666888.xyz
 cf.nyanya.moe
-edgeone.gh-proxy.org
 warframe.market
 blog.646474.xyz
 v.recipes
@@ -140,6 +144,7 @@ cdnjs.cloudflare.com
 adnjv.cf.3666888.xyz
 www.oopt.eu.cc
 cfip-ct.stoeaves.us.ci
+edgeone.gh-proxy.org
 cloudflare.com
 www.090902.xyz
 kali.download
@@ -147,8 +152,6 @@ yfvsdf.cf.3666888.xyz
 cfip.1323123.xyz
 ip.sb
 fn.130519.xyz
-linear.app
-dnew.cc
 zen-browser.app
 codexradar.com
 www.ntu.edu.sg
@@ -157,7 +160,6 @@ dynadot.com
 virtualcommtraining.verizon.com
 cfip-cu.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
-yd.hhhhh.eu.org
 coke.cf.3666888.xyz
 cf.xycf.asia
 example.com
@@ -173,16 +175,19 @@ www.applevis.com
 moondroplab.com
 crinacle.com
 investor.apple.com
+yd.hhhhh.eu.org
 my.vultr.com
 cal.com
+666.cf.cname.vvhan.com
 singapore.com
 fbi.gov
 ddk.cfyx.20237737.xyz
+www.dentoncounty.gov
 tinyurl.com
 www.elysee.fr
 pure.coupert.com
-china.mfa.gov.ua
 uspto.gov
+cf1.v8.longsays.com
 dongbanghong.com
 lt.zhuqq.qzz.io
 pubs.acs.org
@@ -191,10 +196,5 @@ cf.itv888.cn
 gamebanana.com
 tarkov-market.com
 japan.com
+challenges.cloudflare.com
 chinwa.cf.090227.xyz
-appstorrent.ru
-www.spacex.com
-a.pub.network
-s.bookcdn.com
-www.copilot.com
-dash.cloudflare.com
