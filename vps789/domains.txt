@@ -65,7 +65,6 @@ qocu.cf.3666888.xyz
 8.cf.3666888.xyz
 9.cf.3666888.xyz
 test.509666.xyz
-china.mfa.gov.ua
 www.bangbenjiaju.com
 imooo.de
 cfgo.timelate.com
@@ -75,6 +74,7 @@ www.giannidelprete.it
 prizepicks.com
 play.mc.js.cool
 www.wto.org
+china.mfa.gov.ua
 yg5.ygkkk.dpdns.org
 yg11.ygkkk.dpdns.org
 cf.468123.xyz
@@ -128,6 +128,7 @@ cmcc.877774.xyz
 www.crazygames.fr
 www.revechat.com
 vip.cf.3666888.xyz
+securecircle.com
 cf.nyanya.moe
 warframe.market
 blog.646474.xyz
@@ -159,9 +160,9 @@ dynadot.com
 virtualcommtraining.verizon.com
 cfip-cu.stoeaves.us.ci
 cfip-cm.stoeaves.us.ci
+yd.hhhhh.eu.org
 coke.cf.3666888.xyz
 cf.xycf.asia
-www.090902.xyz
 example.com
 cf.cf.636949.xyz
 www.spaceship.com
@@ -176,7 +177,6 @@ www.applevis.com
 moondroplab.com
 crinacle.com
 investor.apple.com
-yd.hhhhh.eu.org
 my.vultr.com
 cal.com
 666.cf.cname.vvhan.com
@@ -194,7 +194,7 @@ lt.zhuqq.qzz.io
 pubs.acs.org
 cf.itv888.cn
 4gxb7l7p40.cloudflare-gateway.com
+www.090902.xyz
 gamebanana.com
 tarkov-market.com
 japan.com
-challenges.cloudflare.com
