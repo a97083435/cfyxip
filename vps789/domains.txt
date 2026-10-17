@@ -16,7 +16,6 @@ china-unicom.cname.cloudflare.468123.xyz
 yx.cf.090227.xyz
 131.youxuan.cf.090227.xyz
 jobsdb.com
-cf.090227.xyz
 www.shopify.com
 cf.877771.xyz
 cf.130519.xyz
@@ -33,6 +32,7 @@ comet57.cf.090227.xyz
 www.wto.org
 coreweave.com
 cfgo.timelate.com
+cf.090227.xyz
 openai.com
 cu.877774.xyz
 www.speedtest.net
@@ -46,6 +46,7 @@ www.crazygames.fr
 youxuan.cf.3666888.xyz
 5.cf.3666888.xyz
 9.cf.3666888.xyz
+www.nexusmods.com
 www.xiaoshuofen.com
 imooo.de
 cdn.091224.xyz
@@ -72,7 +73,6 @@ www.leics.police.uk
 sg.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
 yg13.ygkkk.dpdns.org
-www.nexusmods.com
 www.sofi.com
 www.carousell.sg
 cdn.2x.nz
@@ -83,7 +83,6 @@ video.ouo.chat
 china.mfa.gov.ua
 linear.app
 ahrefs.com
-m.iyf.tv
 1.cf.3666888.xyz
 cmcc.hw.090227.xyz
 www.bangbenjiaju.com
@@ -96,6 +95,7 @@ n8n.io
 www.ntu.edu.sg
 kwiat.com
 www.npmjs.com
+m.iyf.tv
 123.cf.3666888.xyz
 www.sloomb.com
 cf.553314.xyz
@@ -119,12 +119,10 @@ cfip.1323123.xyz
 time.is
 ip.sb
 www.whoer.net
-dx.doi.org
 shanghai.mfa.gov.ua
 cdnjs.loli.net
 gamebanana.com
 obsidian.md
-videodelivery.net
 bestcf.030101.xyz
 v.recipes
 tajikistan.mfa.gov.ua
@@ -139,6 +137,7 @@ kinsta.com
 visa.com
 japan.com
 dynadot.com
+dx.doi.org
 codeforces.com
 crinacle.com
 challenges.cloudflare.com
@@ -146,10 +145,9 @@ cf1.v8.longsays.com
 yd.hhhhh.eu.org
 www.chess.com
 s.ee
-my.vultr.com
-rankmath.com
 tarkov-market.com
 ct.090227.xyz
+videodelivery.net
 www.udacity.com
 fbi.gov
 tinyurl.com
@@ -162,9 +160,10 @@ www.dg22.top
 prizepicks.com
 cfip-avg.stoeaves.us.ci
 registry.npmjs.org
+rankmath.com
 www.hugedomains.com
 clickhouse.com
-linkvertise.com
+my.vultr.com
 cal.com
 www.5199dy.com
 journeys.com
@@ -177,7 +176,7 @@ adnjv.cf.3666888.xyz
 ct.hw.090227.xyz
 cfip-cu.stoeaves.us.ci
 hentaiverse.org
-www.090902.xyz
+cf.777791.xyz
 a.pub.network
 www.spaceship.com
 cnamefuckxxs.yuchen.icu
@@ -198,3 +197,4 @@ cf-cname.xingpingcn.top
 cloudflare.net
 debot.ai
 themeisle.com
+moodle.org
