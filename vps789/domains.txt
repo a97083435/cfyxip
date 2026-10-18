@@ -118,7 +118,6 @@ coke.cf.3666888.xyz
 4gxb7l7p40.cloudflare-gateway.com
 down.anycast.mom
 kickstarter.com
-w3.org
 ct.090227.xyz
 www.5199dy.com
 youxuan.cf.3666888.xyz
@@ -127,6 +126,7 @@ vip.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cloudflare.468123.xyz
 cfip-cm.stoeaves.us.ci
+w3.org
 syncfusion.com
 dongbanghong.com
 bestcf.top
