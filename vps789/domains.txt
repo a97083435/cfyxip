@@ -54,6 +54,7 @@ yx.cf.090227.xyz
 cdn.2x.nz
 131.youxuan.cf.090227.xyz
 ex.warspite.dpdns.org
+sb3cdn.sjzhk.top
 video.ouo.chat
 down.anycast.mom
 cdn.aneko.ink
@@ -66,7 +67,6 @@ cf.3666888.xyz
 gh-proxy.com
 spring.io
 qocu.cf.3666888.xyz
-5.cf.3666888.xyz
 8.cf.3666888.xyz
 9.cf.3666888.xyz
 test.509666.xyz
@@ -78,11 +78,11 @@ uspto.gov
 cfgo.timelate.com
 markmonitor.com
 www.blibli.com
+www.oopt.eu.cc
 www.giannidelprete.it
 prizepicks.com
 play.mc.js.cool
 top-fast.cf.3666888.xyz
-sb3cdn.sjzhk.top
 www.wto.org
 china.mfa.gov.ua
 yg5.ygkkk.dpdns.org
@@ -94,12 +94,10 @@ www.nexusmods.com
 ct.hw.090227.xyz
 greim.no
 shanghai.mfa.gov.ua
-www.oopt.eu.cc
 cf.553314.xyz
 www.deepl.com
 midjourney.com
 tajikistan.mfa.gov.ua
-cf.468123.xyz
 cf.090227.xyz
 cf.877771.xyz
 staticdelivery.nexusmods.com
@@ -107,6 +105,8 @@ www.mc.js.cool
 www.jimdo.com
 hk.cf.3666888.xyz
 123.cf.3666888.xyz
+adnjv.cf.3666888.xyz
+5.cf.3666888.xyz
 cfplus.255520.xyz
 53.fs1.hubspotusercontent-na1.net
 xbjzcdn.sjzhk.top
@@ -120,13 +120,13 @@ dianomi.com
 keji.cf.3666888.xyz
 uac.cf.3666888.xyz
 fw8je9.cf.3666888.xyz
-adnjv.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 3.cf.3666888.xyz
 hzytjy.cn
 www.vastnovel.com
 coreweave.com
 www.vmware.com
+cf.468123.xyz
 cfip-avg.stoeaves.us.ci
 worldvectorlogo.com
 cnamefuckxxs.yuchen.icu
@@ -146,6 +146,7 @@ cf.godns.cc
 www.bis.gov
 9mod.com
 fictiv.com
+support.communilink.net
 db-ip.com
 n8n.io
 debot.ai
@@ -173,6 +174,7 @@ coke.cf.3666888.xyz
 cf.xycf.asia
 edgeone.gh-proxy.org
 example.com
+cdn.jwcmdr.top
 cf.cf.636949.xyz
 www.spaceship.com
 obsidian.md
@@ -183,10 +185,10 @@ dx.doi.org
 clickhouse.com
 sellerlogic.com
 www.applevis.com
-support.communilink.net
 moondroplab.com
 investor.apple.com
 my.vultr.com
+codewars.com
 cal.com
 666.cf.cname.vvhan.com
 singapore.com
@@ -196,5 +198,3 @@ www.elysee.fr
 pure.coupert.com
 crinacle.com
 dongbanghong.com
-lt.zhuqq.qzz.io
-pubs.acs.org
