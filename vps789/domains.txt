@@ -141,6 +141,7 @@ video.ouo.chat
 time.is
 w3.org
 lt.zhuqq.qzz.io
+cu.zxy88.eu.org
 ping.pe
 cloudflare.net
 www.speedtest.net
@@ -154,7 +155,6 @@ ct.721660.xyz
 oxylabs.io
 infinitemac.org
 s.ee
-cu.zxy88.eu.org
 cnamefuckxxs.yuchen.icu
 www.whatismyip.com
 builtbybuffalo.com
@@ -179,6 +179,7 @@ obsidian.md
 blog.raindew.576555.xyz
 investor.apple.com
 example.com
+www.dentoncounty.gov
 hlevakha.gov.ua
 sellerlogic.com
 crinacle.com
@@ -190,7 +191,6 @@ www.government.is
 www.090902.xyz
 cloudflare.19931110.xyz
 static.elfsight.com
-xbjzcdn.sjzhk.top
 cf.cf.636949.xyz
 cfip.1323123.xyz
 ip.sb
