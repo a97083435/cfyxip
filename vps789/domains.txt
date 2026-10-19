@@ -13,12 +13,10 @@ www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz
 yx.cf.090227.xyz
 cdn.aneko.ink
-blog.646474.xyz
 www.shopify.com
 blog.raindew.576555.xyz
 hfqek.cf.3666888.xyz
 cdn.2x.nz
-www.oopt.eu.cc
 www.sloomb.com
 131.youxuan.cf.090227.xyz
 cdns.doon.eu.org
@@ -60,6 +58,7 @@ ct.721660.xyz
 cf.92555.xyz
 lt.1930812.xyz
 53.fs1.hubspotusercontent-na1.net
+blog.646474.xyz
 egov.uscis.gov
 coreweave.com
 mail.notion.com
@@ -89,6 +88,7 @@ www.bangbenjiaju.com
 cf.468123.xyz
 shanghai.mfa.gov.ua
 www.carousell.sg
+www.oopt.eu.cc
 www.akasantech.com
 cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
@@ -166,7 +166,6 @@ www.090902.xyz
 codewars.com
 tarkov-market.com
 1.cf.636949.xyz
-moondroplab.com
 noc.one
 a.pub.network
 aimagazine.com
@@ -195,6 +194,7 @@ www.libvio.site
 www.ox.ac.uk
 kwiat.com
 fictiv.com
-support.communilink.net
 www.timbuktutravel.com
+moondroplab.com
 cf.cf.3666888.xyz
+worldvectorlogo.com
