@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP100 | 10-20 05:41 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP100 | 10-20 06:11 | BestCF.pages.dev
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 666.cf.cname.vvhan.com:8443#VPS789优选 | 666.cf.cname.vvhan.com
@@ -94,9 +94,9 @@ cfip-avg.stoeaves.us.ci:8443#VPS789优选 | cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci:8443#VPS789优选 | cfip-ct.stoeaves.us.ci
 funko.com:8443#VPS789优选 | funko.com
 4gxb7l7p40.cloudflare-gateway.com:8443#VPS789优选 | 4gxb7l7p40.cloudflare-gateway.com
+cdn.fiatnorm.us.kg:8443#VPS789优选 | cdn.fiatnorm.us.kg
 www.zendesk.com:8443#VPS789优选 | www.zendesk.com
 video.ouo.chat:8443#VPS789优选 | video.ouo.chat
 merlin.ns.cloudflare.com:8443#VPS789优选 | merlin.ns.cloudflare.com
 cu.877774.xyz:8443#VPS789优选 | cu.877774.xyz
-dnew.cc:8443#VPS789优选 | dnew.cc
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev

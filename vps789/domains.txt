@@ -93,6 +93,7 @@ cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
 funko.com
 4gxb7l7p40.cloudflare-gateway.com
+cdn.fiatnorm.us.kg
 www.zendesk.com
 video.ouo.chat
 merlin.ns.cloudflare.com
@@ -113,7 +114,6 @@ www.giannidelprete.it
 prompt.gzcrtw.com
 prizepicks.com
 cfip-cu.stoeaves.us.ci
-cdn.fiatnorm.us.kg
 www.deepl.com
 liz.us.ci
 kinsta.com
@@ -143,7 +143,6 @@ adnjv.cf.3666888.xyz
 isp.254301.xyz
 yg13.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
-www.090902.xyz
 wuxiaworld.com
 www.whoer.net
 www.postman.com
@@ -163,6 +162,7 @@ ct.hw.090227.xyz
 imooo.de
 investor.apple.com
 zen-browser.app
+www.090902.xyz
 codewars.com
 tarkov-market.com
 1.cf.636949.xyz
