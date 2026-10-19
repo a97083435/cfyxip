@@ -40,6 +40,7 @@ cloudflare.19931110.xyz
 comet57.cf.090227.xyz
 cf.090227.xyz
 cf-cname.xingpingcn.top
+www.udacity.com
 cf.877771.xyz
 fn.130519.xyz
 cmcc.vvvv.ee
@@ -120,6 +121,7 @@ networksolutions.com
 www.bis.gov
 www.crazygames.fr
 youxuan.cf.3666888.xyz
+jp.cf.3666888.xyz
 123.cf.3666888.xyz
 3.cf.3666888.xyz
 7.cf.3666888.xyz
@@ -134,7 +136,6 @@ cf.godns.cc
 www.5199dy.com
 www.jimdo.com
 hk.cf.3666888.xyz
-jp.cf.3666888.xyz
 qocu.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 isp.254301.xyz
@@ -148,7 +149,6 @@ www.doiting.com
 yg5.ygkkk.dpdns.org
 visa.com.tw
 codexradar.com
-codewars.com
 www.mastervolt.com
 9mod.com
 2.cf.3666888.xyz
@@ -160,6 +160,7 @@ ct.hw.090227.xyz
 imooo.de
 investor.apple.com
 zen-browser.app
+codewars.com
 tarkov-market.com
 1.cf.636949.xyz
 moondroplab.com
@@ -191,10 +192,9 @@ dx.doi.org
 www.ox.ac.uk
 kwiat.com
 codeforces.com
+fictiv.com
 support.communilink.net
 www.timbuktutravel.com
 cf.cf.3666888.xyz
 worldvectorlogo.com
 n8n.io
-www.hugedomains.com
-uptimerobot.com
