@@ -1,3 +1,4 @@
+cf.godns.cc
 ip.skk.moe
 666.cf.cname.vvhan.com
 111.cf.cname.vvhan.com
@@ -48,6 +49,7 @@ cf.3666888.xyz
 da.mfa.gov.ua
 gh-proxy.com
 spring.io
+jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cdn.555586.xyz
 china.mfa.gov.ua
@@ -89,6 +91,7 @@ www.carousell.sg
 www.akasantech.com
 cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
+funko.com
 4gxb7l7p40.cloudflare-gateway.com
 www.zendesk.com
 video.ouo.chat
@@ -100,6 +103,7 @@ www.sage.com
 sg.cf.3666888.xyz
 uac.cf.3666888.xyz
 1.cf.3666888.xyz
+www.broadcom.com
 www.nexusmods.com
 greim.no
 cdn.091224.xyz
@@ -109,6 +113,7 @@ www.giannidelprete.it
 prompt.gzcrtw.com
 prizepicks.com
 cfip-cu.stoeaves.us.ci
+cdn.fiatnorm.us.kg
 www.deepl.com
 liz.us.ci
 kinsta.com
@@ -121,18 +126,15 @@ networksolutions.com
 www.bis.gov
 www.crazygames.fr
 youxuan.cf.3666888.xyz
-jp.cf.3666888.xyz
 123.cf.3666888.xyz
 3.cf.3666888.xyz
 7.cf.3666888.xyz
 yg9.ygkkk.dpdns.org
 markmonitor.com
-cdn.fiatnorm.us.kg
 down.anycast.mom
 doordash.com
 time.is
 dogechain.info
-cf.godns.cc
 www.5199dy.com
 www.jimdo.com
 hk.cf.3666888.xyz
@@ -141,6 +143,7 @@ adnjv.cf.3666888.xyz
 isp.254301.xyz
 yg13.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
+www.090902.xyz
 wuxiaworld.com
 www.whoer.net
 www.postman.com
@@ -175,6 +178,7 @@ icook.tw
 singapore.com
 www.whatismyip.com
 tajikistan.mfa.gov.ua
+encryptedsni.com
 syncfusion.com
 avido.cf.3666888.xyz
 9.cf.3666888.xyz
@@ -184,11 +188,9 @@ idc.urkeji.com
 cmcc.hw.090227.xyz
 hzytjy.cn
 cf.itv888.cn
-www.090902.xyz
 static.elfsight.com
 scribblehub.com
 www.libvio.site
-dx.doi.org
 www.ox.ac.uk
 kwiat.com
 codeforces.com
@@ -196,5 +198,3 @@ fictiv.com
 support.communilink.net
 www.timbuktutravel.com
 cf.cf.3666888.xyz
-worldvectorlogo.com
-n8n.io
