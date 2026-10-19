@@ -37,6 +37,7 @@ www.vastnovel.com
 cf.vvhan.com
 1.cloudflare.19931110.xyz
 ex.warspite.dpdns.org
+cdn.fiatnorm.us.kg
 cloudflare.19931110.xyz
 comet57.cf.090227.xyz
 cf.090227.xyz
@@ -59,10 +60,10 @@ cfgo.timelate.com
 ct.721660.xyz
 cf.92555.xyz
 lt.1930812.xyz
-mail.notion.com
 53.fs1.hubspotusercontent-na1.net
 egov.uscis.gov
 coreweave.com
+mail.notion.com
 ct.090227.xyz
 cf.v8.longsays.com
 staticdelivery.nexusmods.com
@@ -93,7 +94,6 @@ cfip-avg.stoeaves.us.ci
 cfip-ct.stoeaves.us.ci
 funko.com
 4gxb7l7p40.cloudflare-gateway.com
-cdn.fiatnorm.us.kg
 www.zendesk.com
 video.ouo.chat
 merlin.ns.cloudflare.com
@@ -193,8 +193,8 @@ scribblehub.com
 www.libvio.site
 www.ox.ac.uk
 kwiat.com
-codeforces.com
 fictiv.com
 support.communilink.net
 www.timbuktutravel.com
 cf.cf.3666888.xyz
+worldvectorlogo.com
