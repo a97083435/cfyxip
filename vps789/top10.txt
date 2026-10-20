@@ -1,6 +1,6 @@
-162.159.198.1:443#VPS789优选域名 TOP10 | 10-20 14:11 | BestCF.pages.dev
-cf.godns.cc:443#VPS789优选 | cf.godns.cc
+162.159.198.1:443#VPS789优选域名 TOP10 | 10-20 14:41 | BestCF.pages.dev
 666.cf.cname.vvhan.com:443#VPS789优选 | 666.cf.cname.vvhan.com
+cf.godns.cc:443#VPS789优选 | cf.godns.cc
 ctsg.cfyx.aliyun.20237737.xyz:443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 cdn.ddeed.de:443#VPS789优选 | cdn.ddeed.de
 www.aneko.ink:443#VPS789优选 | www.aneko.ink
