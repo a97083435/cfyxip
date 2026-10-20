@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-21 07:11 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-21 07:41 | BestCF.pages.dev
 cf.godns.cc:8443#VPS789优选 | cf.godns.cc
 ctsg.cfyx.aliyun.20237737.xyz:8443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
 cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
@@ -31,6 +31,7 @@ shanghai.mfa.gov.ua:8443#VPS789优选 | shanghai.mfa.gov.ua
 yx.cf.090227.xyz:8443#VPS789优选 | yx.cf.090227.xyz
 cdn.2x.nz:8443#VPS789优选 | cdn.2x.nz
 ct.721660.xyz:8443#VPS789优选 | ct.721660.xyz
+www.oopt.eu.cc:8443#VPS789优选 | www.oopt.eu.cc
 prompt.gzcrtw.com:8443#VPS789优选 | prompt.gzcrtw.com
 play.mc.js.cool:8443#VPS789优选 | play.mc.js.cool
 coke.cf.3666888.xyz:8443#VPS789优选 | coke.cf.3666888.xyz
@@ -48,5 +49,4 @@ yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 www.nexusmods.com:8443#VPS789优选 | www.nexusmods.com
 www.sofi.com:8443#VPS789优选 | www.sofi.com
 wppaunz.com:8443#VPS789优选 | wppaunz.com
-greim.no:8443#VPS789优选 | greim.no
 162.159.197.1:8443#VPS789优选域名 | 分享免费优选网 BestCF.pages.dev
