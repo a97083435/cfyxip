@@ -95,6 +95,7 @@ top-fast.cf.3666888.xyz
 cdn.aneko.ink
 midjourney.com
 w3.org
+cloudflare-ip.mofashi.ltd
 www.udacity.com
 cf.877771.xyz
 linear.app
@@ -114,7 +115,6 @@ prizepicks.com
 cf.777791.xyz
 merlin.ns.cloudflare.com
 kinsta.com
-cloudflare-ip.mofashi.ltd
 cf.v8.longsays.com
 www.mastervolt.com
 www.vmware.com
@@ -175,7 +175,9 @@ hk.cf.3666888.xyz
 cf1s.cf.3666888.xyz
 ys2046.cv
 oxylabs.io
+cf.553314.xyz
 cf.qq.ms
+cf.cloudflare.182682.xyz
 yfvsdf.cf.3666888.xyz
 obsidian.md
 time.is
@@ -196,5 +198,3 @@ ikankeji.com
 cnllm.com
 www.mlkj888.com
 hzytjy.cn
-www.gov.il
-cf.553314.xyz
