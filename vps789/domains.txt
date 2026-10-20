@@ -13,13 +13,13 @@ www.galgamex.net
 china-mobile.cname.cloudflare.468123.xyz
 yx.cf.090227.xyz
 cdn.aneko.ink
-www.shopify.com
 blog.raindew.576555.xyz
 hfqek.cf.3666888.xyz
 cdn.2x.nz
 www.sloomb.com
 131.youxuan.cf.090227.xyz
 cdns.doon.eu.org
+www.shopify.com
 guide.for.edu.sg
 serviceshub.samsclub.com
 www.leics.police.uk
@@ -39,7 +39,6 @@ cdn.fiatnorm.us.kg
 cloudflare.19931110.xyz
 comet57.cf.090227.xyz
 cf-cname.xingpingcn.top
-www.udacity.com
 cf.877771.xyz
 fn.130519.xyz
 cmcc.vvvv.ee
@@ -47,7 +46,6 @@ cf.3666888.xyz
 da.mfa.gov.ua
 gh-proxy.com
 spring.io
-coreweave.com
 jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cdn.555586.xyz
@@ -61,10 +59,12 @@ lt.1930812.xyz
 53.fs1.hubspotusercontent-na1.net
 blog.646474.xyz
 egov.uscis.gov
+coreweave.com
 mail.notion.com
 cf.090227.xyz
 ct.090227.xyz
 cf.v8.longsays.com
+www.udacity.com
 staticdelivery.nexusmods.com
 cf.130519.xyz
 linear.app
@@ -133,9 +133,11 @@ yg9.ygkkk.dpdns.org
 markmonitor.com
 down.anycast.mom
 doordash.com
+isp.qzz.io
 time.is
 dogechain.info
 www.5199dy.com
+versantstore.pearson.com
 www.jimdo.com
 hk.cf.3666888.xyz
 qocu.cf.3666888.xyz
@@ -143,7 +145,6 @@ adnjv.cf.3666888.xyz
 isp.254301.xyz
 yg13.ygkkk.dpdns.org
 china-unicom.cname.cloudflare.468123.xyz
-wuxiaworld.com
 www.whoer.net
 www.postman.com
 www.meteorelectrical.com
@@ -151,6 +152,7 @@ www.doiting.com
 yg5.ygkkk.dpdns.org
 visa.com.tw
 codexradar.com
+kickstarter.com
 www.mastervolt.com
 9mod.com
 2.cf.3666888.xyz
@@ -163,6 +165,7 @@ imooo.de
 zen-browser.app
 www.090902.xyz
 codewars.com
+wuxiaworld.com
 tarkov-market.com
 1.cf.636949.xyz
 investor.apple.com
@@ -190,11 +193,8 @@ hzytjy.cn
 cf.itv888.cn
 static.elfsight.com
 scribblehub.com
-isp.qzz.io
-www.libvio.site
 dx.doi.org
 www.ox.ac.uk
-kwiat.com
 fictiv.com
 www.timbuktutravel.com
 cf.cf.3666888.xyz
