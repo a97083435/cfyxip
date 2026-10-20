@@ -47,6 +47,7 @@ cf.3666888.xyz
 da.mfa.gov.ua
 gh-proxy.com
 spring.io
+coreweave.com
 jp.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 cdn.555586.xyz
@@ -60,7 +61,6 @@ lt.1930812.xyz
 53.fs1.hubspotusercontent-na1.net
 blog.646474.xyz
 egov.uscis.gov
-coreweave.com
 mail.notion.com
 cf.090227.xyz
 ct.090227.xyz
@@ -160,12 +160,12 @@ img.css.sd
 securecircle.com
 ct.hw.090227.xyz
 imooo.de
-investor.apple.com
 zen-browser.app
 www.090902.xyz
 codewars.com
 tarkov-market.com
 1.cf.636949.xyz
+investor.apple.com
 noc.one
 a.pub.network
 aimagazine.com
@@ -190,11 +190,11 @@ hzytjy.cn
 cf.itv888.cn
 static.elfsight.com
 scribblehub.com
+isp.qzz.io
 www.libvio.site
+dx.doi.org
 www.ox.ac.uk
 kwiat.com
 fictiv.com
 www.timbuktutravel.com
-moondroplab.com
 cf.cf.3666888.xyz
-worldvectorlogo.com
