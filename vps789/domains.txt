@@ -26,6 +26,7 @@ yg12.ygkkk.dpdns.org
 www.galgamex.net
 china-unicom.cname.cloudflare.468123.xyz
 cf.468123.xyz
+shanghai.mfa.gov.ua
 yx.cf.090227.xyz
 cdn.2x.nz
 ct.721660.xyz
@@ -197,4 +198,3 @@ crinacle.com
 adnjv.cf.3666888.xyz
 cdn.2158.cc
 ikankeji.com
-cnllm.com
