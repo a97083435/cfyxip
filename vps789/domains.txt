@@ -168,6 +168,7 @@ www.visa.com.hk
 dx.doi.org
 www.elegantthemes.com
 codewars.com
+cloudflare.182682.xyz
 www.speedtest.net
 virtualcommtraining.verizon.com
 hubspot.com
@@ -188,7 +189,6 @@ zen-browser.app
 scalacube.com
 registry.npmjs.org
 noc.one
-cloudflare.182682.xyz
 dash.cloudflare.com
 fbi.gov
 egov.uscis.gov
