@@ -139,7 +139,6 @@ bestcfv4.030101.xyz
 spring.io
 constitution.congress.gov
 www.mastervolt.com
-npmjs.com
 2.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 investor.apple.com
@@ -150,6 +149,7 @@ www.zendesk.com
 cdn.jwcmdr.top
 down.anycast.mom
 www.postman.com
+dango.co
 codeforces.com
 builtbybuffalo.com
 zen-browser.app
@@ -159,7 +159,7 @@ cu.877774.xyz
 singapore.com
 www.5199dy.com
 virtualcommtraining.verizon.com
-dango.co
+npmjs.com
 uptimerobot.com
 vip.cf.3666888.xyz
 123.cf.3666888.xyz
@@ -189,12 +189,12 @@ themeisle.com
 syncfusion.com
 keji.cf.3666888.xyz
 cf.254301.xyz
-cdn.2158.cc
 yg3.ygkkk.dpdns.org
 c-power.com.cn
 ikankeji.com
-www.mlkj888.com
 hzytjy.cn
 my.vultr.com
 cdnjs.loli.net
 codewars.com
+cfip.1323123.xyz
+time.is
