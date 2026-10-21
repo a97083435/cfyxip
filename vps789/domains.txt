@@ -96,7 +96,6 @@ cf.468123.xyz
 markmonitor.com
 www.vastnovel.com
 www.giannidelprete.it
-cf.qq.ms
 cf.vvhan.com
 4gxb7l7p40.cloudflare-gateway.com
 ex.warspite.dpdns.org
@@ -127,13 +126,13 @@ ct.721660.xyz
 www.sloomb.com
 dongbanghong.com
 prizepicks.com
+cf.qq.ms
 midjourney.com
 cloudflare.seeck.cn
 www.ventusky.com
 www.akasantech.com
 ping.pe
 bestcfv4.030101.xyz
-www.5199dy.com
 spring.io
 constitution.congress.gov
 www.mastervolt.com
@@ -155,6 +154,7 @@ bestcf.top
 kickstarter.com
 cu.877774.xyz
 singapore.com
+www.5199dy.com
 virtualcommtraining.verizon.com
 dango.co
 uptimerobot.com
@@ -196,5 +196,5 @@ hzytjy.cn
 img.856518.xyz
 my.vultr.com
 cdnjs.loli.net
+cf.cf.636949.xyz
 codewars.com
-cf.0sm.com
