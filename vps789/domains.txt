@@ -8,6 +8,7 @@ yx.cf.090227.xyz
 ctsg.cfyx.aliyun.20237737.xyz
 cdn.2x.nz
 www.oopt.eu.cc
+cf.553314.xyz
 cf.xreak.top
 cf.yj250.bond
 cdn.aneko.ink
@@ -25,7 +26,6 @@ chinwa.cf.090227.xyz
 ys2046.cv
 shanghai.mfa.gov.ua
 www.carousell.sg
-cf.553314.xyz
 cdn.ddeed.de
 cf.92555.xyz
 131.youxuan.cf.090227.xyz
@@ -41,6 +41,7 @@ youxuan.cf.3666888.xyz
 sanwang.cf.3666888.xyz
 cfvip.cf.3666888.xyz
 eteaf.cf.3666888.xyz
+isp.254301.xyz
 5.cf.3666888.xyz
 10.cf.3666888.xyz
 111.cf.cname.vvhan.com
@@ -48,6 +49,7 @@ securecircle.com
 china-telecom.cname.cloudflare.468123.xyz
 cfplus.255520.xyz
 play.mc.js.cool
+funko.com
 comet57.cf.090227.xyz
 cdns.doon.eu.org
 ct.090227.xyz
@@ -86,9 +88,9 @@ www.jimdo.com
 www.vmware.com
 cdn.cf.3666888.xyz
 cdn.555586.xyz
+uac.cf.3666888.xyz
 test.509666.xyz
 china.mfa.gov.ua
-yg11.ygkkk.dpdns.org
 www.nexusmods.com
 wppaunz.com
 greim.no
@@ -103,6 +105,7 @@ cf.cloudflare.182682.xyz
 cf.777791.xyz
 doordash.com
 kinsta.com
+yg11.ygkkk.dpdns.org
 mail.notion.com
 visa.com
 www.ntu.edu.sg
@@ -146,7 +149,6 @@ cloudflare.com
 www.zendesk.com
 cdn.jwcmdr.top
 down.anycast.mom
-isp.qzz.io
 www.postman.com
 codeforces.com
 builtbybuffalo.com
@@ -180,7 +182,6 @@ www.doiting.com
 wallpaperflare.com
 gamebanana.com
 obsidian.md
-cloudflare.182682.xyz
 serviceshub.samsclub.com
 aftership.com
 www.sage.com
@@ -197,4 +198,3 @@ hzytjy.cn
 my.vultr.com
 cdnjs.loli.net
 codewars.com
-cf.0sm.com
