@@ -1,6 +1,7 @@
 cf.godns.cc
 ctsg.cfyx.aliyun.20237737.xyz
 cfyx.aliyun.20237737.xyz
+www.oopt.eu.cc
 cloudflare.19931110.xyz
 cf.090227.xyz
 666.cf.cname.vvhan.com
@@ -30,7 +31,6 @@ shanghai.mfa.gov.ua
 yx.cf.090227.xyz
 cdn.2x.nz
 ct.721660.xyz
-www.oopt.eu.cc
 prompt.gzcrtw.com
 play.mc.js.cool
 coke.cf.3666888.xyz
@@ -60,6 +60,7 @@ cf.92555.xyz
 cdn.jwcmdr.top
 down.anycast.mom
 www.aneko.ink
+blog.646474.xyz
 cf.legspcpd.top
 www.shopify.com
 kickstarter.com
@@ -95,7 +96,6 @@ cf.yj250.bond
 top-fast.cf.3666888.xyz
 cdn.aneko.ink
 midjourney.com
-blog.646474.xyz
 w3.org
 cloudflare-ip.mofashi.ltd
 www.udacity.com
