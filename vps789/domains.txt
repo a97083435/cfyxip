@@ -61,7 +61,6 @@ cf.3666888.xyz
 nexusmods.com
 www.wto.org
 dnew.cc
-coreweave.com
 www.bis.gov
 m.iyf.tv
 yg6.ygkkk.dpdns.org
@@ -75,6 +74,7 @@ cfip-ct.stoeaves.us.ci
 cfip-cu.stoeaves.us.ci
 www.deepl.com
 53.fs1.hubspotusercontent-na1.net
+coreweave.com
 jobsdb.com
 cf.877771.xyz
 mfa.gov.ua
