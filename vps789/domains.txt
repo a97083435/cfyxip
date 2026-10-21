@@ -128,7 +128,6 @@ cf.qq.ms
 4gxb7l7p40.cloudflare-gateway.com
 midjourney.com
 cloudflare.seeck.cn
-isp.qzz.io
 www.ventusky.com
 www.akasantech.com
 ping.pe
@@ -147,6 +146,7 @@ cloudflare.com
 www.zendesk.com
 cdn.jwcmdr.top
 down.anycast.mom
+isp.qzz.io
 www.postman.com
 codeforces.com
 builtbybuffalo.com
@@ -164,7 +164,6 @@ vip.cf.3666888.xyz
 adnjv.cf.3666888.xyz
 yg12.ygkkk.dpdns.org
 101yaoye.com
-www.mlkj888.com
 cmcc.hw.090227.xyz
 ct.hw.090227.xyz
 oxylabs.io
@@ -193,6 +192,7 @@ cdn.2158.cc
 yg3.ygkkk.dpdns.org
 c-power.com.cn
 ikankeji.com
+www.mlkj888.com
 hzytjy.cn
 my.vultr.com
 cdnjs.loli.net
