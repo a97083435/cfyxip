@@ -53,6 +53,7 @@ funko.com
 comet57.cf.090227.xyz
 cdns.doon.eu.org
 ct.090227.xyz
+cf-cname.xingpingcn.top
 openai.com
 fn.130519.xyz
 linear.app
@@ -197,4 +198,3 @@ my.vultr.com
 cdnjs.loli.net
 codewars.com
 cfip.1323123.xyz
-time.is
