@@ -1,4 +1,4 @@
-162.159.198.1:8443#VPS789优选域名 TOP50 | 10-22 18:42 | BestCF.pages.dev
+162.159.198.1:8443#VPS789优选域名 TOP50 | 10-22 19:11 | BestCF.pages.dev
 yg8.ygkkk.dpdns.org:8443#VPS789优选 | yg8.ygkkk.dpdns.org
 ip.skk.moe:8443#VPS789优选 | ip.skk.moe
 ctsg.cfyx.aliyun.20237737.xyz:8443#VPS789优选 | ctsg.cfyx.aliyun.20237737.xyz
@@ -35,8 +35,8 @@ yg11.ygkkk.dpdns.org:8443#VPS789优选 | yg11.ygkkk.dpdns.org
 securecircle.com:8443#VPS789优选 | securecircle.com
 www.akasantech.com:8443#VPS789优选 | www.akasantech.com
 cloudflare.19931110.xyz:8443#VPS789优选 | cloudflare.19931110.xyz
-cdns.doon.eu.org:8443#VPS789优选 | cdns.doon.eu.org
 cf-cname.xingpingcn.top:8443#VPS789优选 | cf-cname.xingpingcn.top
+store.ubi.com:8443#VPS789优选 | store.ubi.com
 cfyx.aliyun.20237737.xyz:8443#VPS789优选 | cfyx.aliyun.20237737.xyz
 nexusmods.com:8443#VPS789优选 | nexusmods.com
 dnew.cc:8443#VPS789优选 | dnew.cc
