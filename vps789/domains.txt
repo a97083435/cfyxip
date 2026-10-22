@@ -135,7 +135,6 @@ midjourney.com
 cloudflare.seeck.cn
 www.ventusky.com
 ping.pe
-cloudflare.net
 bestcfv4.030101.xyz
 spring.io
 constitution.congress.gov
@@ -156,6 +155,7 @@ codeforces.com
 builtbybuffalo.com
 zen-browser.app
 bestcf.top
+cloudflare.net
 kickstarter.com
 cu.877774.xyz
 singapore.com
@@ -177,10 +177,8 @@ w3.org
 www.doiting.com
 wallpaperflare.com
 my.vultr.com
-gamebanana.com
 cfip.1323123.xyz
 ip.sb
-serviceshub.samsclub.com
 mvnrepository.com
 aftership.com
 www.sage.com
@@ -192,9 +190,11 @@ ikankeji.com
 hzytjy.cn
 cdnjs.loli.net
 codewars.com
+gamebanana.com
 cdn.nodeimage.com
 aandd.co.jp
 unpkg.com
 syncfusion.com
 networksolutions.com
 fictiv.com
+www.revechat.com
