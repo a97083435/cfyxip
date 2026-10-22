@@ -140,6 +140,7 @@ bestcfv4.030101.xyz
 spring.io
 constitution.congress.gov
 www.mastervolt.com
+npmjs.com
 2.cf.3666888.xyz
 hfqek.cf.3666888.xyz
 investor.apple.com
@@ -160,7 +161,6 @@ cu.877774.xyz
 singapore.com
 www.5199dy.com
 virtualcommtraining.verizon.com
-npmjs.com
 vip.cf.3666888.xyz
 123.cf.3666888.xyz
 adnjv.cf.3666888.xyz
@@ -174,7 +174,6 @@ video.ouo.chat
 www.whoer.net
 vayyar.com
 w3.org
-fictiv.com
 www.doiting.com
 wallpaperflare.com
 my.vultr.com
@@ -186,15 +185,16 @@ mvnrepository.com
 aftership.com
 www.sage.com
 themeisle.com
-uptimerobot.com
 keji.cf.3666888.xyz
 yg3.ygkkk.dpdns.org
 c-power.com.cn
 ikankeji.com
-101yaoye.com
 hzytjy.cn
 cdnjs.loli.net
 codewars.com
 cf.0sm.com
 cdn.nodeimage.com
 aandd.co.jp
+unpkg.com
+syncfusion.com
+networksolutions.com
