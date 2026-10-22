@@ -192,9 +192,9 @@ ikankeji.com
 hzytjy.cn
 cdnjs.loli.net
 codewars.com
-cf.0sm.com
 cdn.nodeimage.com
 aandd.co.jp
 unpkg.com
 syncfusion.com
 networksolutions.com
+fictiv.com
